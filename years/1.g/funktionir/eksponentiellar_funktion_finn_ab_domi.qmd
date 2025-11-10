@@ -1,10 +1,10 @@
----
+﻿---
 title: "Eksponentiellar funktión finn ab dømi"
 ---
 
 ## Dømi
 
-This lesson provides examples of finding parameters a and b in exponential functions.
+Henda undirv�sing gevur d�mi um evni�.
 
 ## Dummy Content
 
@@ -16,7 +16,7 @@ $$
 f(x) = a \cdot b^x
 $$
 
-### Dømi 1: Tveir punkt
+### Dømi 1: Tvey punkt
 
 Givið: $f(0) = 5$ og $f(2) = 20$
 
@@ -43,11 +43,11 @@ $$
 f(x) = 5 \cdot 2^x
 $$
 
-### Dømi 2: Tveir aðrir punkt
+### Dømi 2: Tvey onnur punkt
 
 Givið: $f(1) = 6$ og $f(3) = 24$
 
-**Systema av líkningum:**
+**system av líkningum:**
 $$
 6 = a \cdot b^1
 $$
@@ -55,7 +55,7 @@ $$
 24 = a \cdot b^3
 $$
 
-**Deil annaða við fyrstu:**
+**Být annan við tann fyrra:**
 $$
 \frac{24}{6} = \frac{a \cdot b^3}{a \cdot b} = b^2
 $$
@@ -68,7 +68,7 @@ $$
 b = 2
 $$
 
-**Finna a:**
+**Finn a:**
 $$
 6 = a \cdot 2
 $$
@@ -84,7 +84,7 @@ $$
 
 ### Dømi 3: Praktiskt
 
-Talið av bakterier veksur frá 100 til 400 á 6 tímum.
+Talið av bakterium veksur frá 100 til 400 uppá 6 tímum.
 
 **Við $x$ í tímum:**
 $$
@@ -108,11 +108,11 @@ $$
 f(x) = 100 \cdot 1.26^x
 $$
 
-Hetta merkir 26% vøkstur um tíma.
+Hetta merkir ein 26% vøkstur um tíman.
 
 ### Dømi 4: Minking
 
-Eitt radioaktivt evni minkir frá 80 g til 20 g á 10 árum.
+Eitt radioaktivt evni minkar frá 80 g til 20 g ígjøgnum 10 ár.
 
 $$
 a = 80
@@ -135,7 +135,7 @@ $$
 f(x) = 80 \cdot 0.87^x
 $$
 
-Hetta merkir 13% minking um ár.
+Hetta merkir ein 13% minking um árið.
 
 
 ## Filmur 

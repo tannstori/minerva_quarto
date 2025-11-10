@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: Sinus og cosinus í rættvinklaðum trýkantum"
 ---
 
 ## Prógv
 
-This lesson proves sine and cosine relationships in right triangles.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

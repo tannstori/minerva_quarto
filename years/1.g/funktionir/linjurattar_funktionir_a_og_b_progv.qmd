@@ -1,10 +1,10 @@
----
+﻿---
 title: "Linjurættar funktiónir a og b prógv"
 ---
 
 ## Prógv
 
-This lesson proves properties of linear functions with parameters a and b.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

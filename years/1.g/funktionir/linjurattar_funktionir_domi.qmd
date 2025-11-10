@@ -1,10 +1,10 @@
----
+﻿---
 title: "Linjurættar funktiónir dømi"
 ---
 
 ## Dømi
 
-This lesson provides examples of linear functions.
+Henda undirv�sing gevur d�mi um evni�.
 
 ## Dummy Content
 

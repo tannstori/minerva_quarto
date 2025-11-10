@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: Vinkulsamløgan í trýkantum"
 ---
 
 ## Prógv
 
-This lesson proves the sum of angles in triangles.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

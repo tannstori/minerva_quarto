@@ -1,10 +1,10 @@
----
+﻿---
 title: "Líkindaøkið"
 ---
 
 ## Innleiðing
 
-This lesson covers the probability space (líkindaøkið).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Eksponentiellar funktión tví prógv"
 ---
 
 ## Prógv
 
-This lesson proves properties of exponential doubling functions.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

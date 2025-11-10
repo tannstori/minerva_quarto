@@ -1,10 +1,10 @@
----
+﻿---
 title: "Logaritmur 1"
 ---
 
 ## Innleiðing
 
-This lesson introduces logarithms - part 1.
+Henda undirv�sing innlei�ir evni�.
 
 ## Dummy Content
 

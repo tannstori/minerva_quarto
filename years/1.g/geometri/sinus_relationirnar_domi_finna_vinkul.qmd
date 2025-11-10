@@ -1,10 +1,10 @@
----
+﻿---
 title: "Sinus relatiónirnar dømi - finna vinkul"
 ---
 
 ## Dømi
 
-This lesson provides examples of finding angles using the sine rule.
+Henda undirv�sing gevur d�mi um evni�.
 
 ## Dummy Content
 

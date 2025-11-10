@@ -1,10 +1,10 @@
----
+﻿---
 title: "Dømi: Pythagoras 2"
 ---
 
 ## Dømi
 
-This lesson provides more examples of Pythagoras' theorem.
+Henda undirv�sing gevur fleiri d�mi um evni�.
 
 ## Dummy Content
 

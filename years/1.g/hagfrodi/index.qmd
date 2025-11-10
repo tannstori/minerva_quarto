@@ -1,24 +1,41 @@
----
+﻿---
 title: "Hagfrøði"
 sidebar: sidebar-1g
 ---
-This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
 
+:::{.lesson-grid}
 
+:::{.lesson-card}
+### 📊 Grundleggjandi Hugtøk
 - [Populatión og stakroynd](population_og_stakroynd.qmd)
-- [Pinnamynd](pinnamynd.qmd)
 - [Óbólkaðar observatiónir](obolkadar_observationir.qmd)
+- [Bólkaðar observatiónir](bolkadar_observationir.qmd)
+:::
+
+:::{.lesson-card}
+### 📈 Myndir og Framsetingar
+- [Pinnamynd](pinnamynd.qmd)
+- [Stabbamynd v2](stabbamynd_v2.qmd)
+- [Trappumynd](trappumynd.qmd)
+:::
+
+:::{.lesson-card}
+### 🎯 Miðalvirði og Spjaðing
 - [Miðalvirðið 2](midalvirdid_2.qmd)
 - [Miðalvirðið og spjaðing](midalvirdid_og_spjading.qmd)
 - [Miðalvirðið dømi](midalvirdid_domi.qmd)
-- [Fjórðingsmørk og typutalið](fjordingsmork_og_typutalid.qmd)
 - [Miðalvirðið - kanska slettast](midalvirdid_kanska_slettast.qmd)
-- [Frágreiðandi hagtøl óbólkað](fragreidandi_hagtol_obolkad.qmd)
+:::
+
+:::{.lesson-card}
+### 📉 Frágreiðandi Hagtøl
+- [Fjórðingsmørk og typutalið](fjordingsmork_og_typutalid.qmd)
 - [Fjórðingsmørk median typutal ol](fjordingsmork_median_typutal_ol.qmd)
-- [Bólkaðar observatiónir](bolkadar_observationir.qmd)
-- [Trappumynd](trappumynd.qmd)
+- [Frágreiðandi hagtøl óbólkað](fragreidandi_hagtol_obolkad.qmd)
 - [Summatiónstekin v2](summationstekin_v2.qmd)
-- [Stabbamynd v2](stabbamynd_v2.qmd)
 - [S rás](s_ras.qmd)
+:::
+
+:::
 
 

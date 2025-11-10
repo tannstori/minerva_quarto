@@ -1,24 +1,24 @@
----
+﻿---
 title: "Eksponentiellar funktión finn ab"
 ---
 
 ## Innleiðing
 
-This lesson covers finding parameters a and b in exponential functions.
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Almenn forma
+### Almennur formurin
 
 $$
 f(x) = a \cdot b^x
 $$
 
-### Finna a
+### Finn a
 
-Parameturin $a$ er byrjanarvirðið, tá $x = 0$:
+Parametrið $a$ er byrjanarvirðið, tá $x = 0$:
 
 $$
 f(0) = a \cdot b^0 = a \cdot 1 = a

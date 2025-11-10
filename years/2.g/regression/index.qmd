@@ -1,4 +1,4 @@
----
+﻿---
 title: "Regressión"
 sidebar: sidebar-2g
 ---

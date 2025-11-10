@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hagfrøði"
 sidebar: sidebar-2g
 ---

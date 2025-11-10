@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: Formil fyri at finna areal á trýkanti"
 ---
 
 ## Prógv
 
-This lesson proves the formula for finding area of a triangle.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Introduktión og prógv av sinus relatiónunum"
 ---
 
 ## Innleiðing og Prógv
 
-This lesson introduces and proves the sine rule.
+Henda undirv�sing innlei�ir evni�.
 
 ## Dummy Content
 

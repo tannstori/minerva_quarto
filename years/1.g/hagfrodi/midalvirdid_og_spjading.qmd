@@ -1,10 +1,10 @@
----
+﻿---
 title: "Miðalvirðið og spjaðing"
 ---
 
 ## Innleiðing
 
-This lesson covers mean and variance (miðalvirðið og spjaðing).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

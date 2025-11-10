@@ -1,10 +1,10 @@
----
+﻿---
 title: "Linjurættar funktiónir a og b"
 ---
 
 ## Innleiðing
 
-This lesson covers linear functions with parameters a and b.
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

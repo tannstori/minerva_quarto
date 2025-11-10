@@ -1,20 +1,31 @@
----
-title: "Innihaldsyvirlit"
+﻿---
+title: "Tøl og Algebra"
 sidebar: sidebar-1g
 ---
-**Innihaldsyvirlit**
 
+:::{.lesson-grid}
+
+:::{.lesson-card}
+### 📚 Grundleggjandi Tal-ástøði
 - [Tøl - nátúrlig og heiltøl](tol-naturlig_og_heiltol.qmd)
 - [Tøl - makað og støk tøl](tol-makad_og_stok.qmd)
 - [Eginleikar hjá tølum](eginleikar_hja_tolum.qmd)
 - [Eginleikar hjá tølum - dømi](eginleikar_hja_tolum-domi.qmd)
 - [Stigskipan av rokniháttum](stigskipan_av_roknihattum.qmd)
+:::
+
+:::{.lesson-card}
+### 🔢 Brot
 - [Brot 1](brot-01.qmd)
 - [Brot 2](brot-02.qmd)
 - [Brot - stytta og leingja](brot-stytta_og_leingja.qmd)
 - [Brot - stytta og leingja 2](brot-stytta_og_leingja-02.qmd)
 - [Brot - stytta og leingja dømi](brot-stytta_og_leingja-domi.qmd)
 - [Brot - falda og býta](brot-falda_og_byta.qmd)
+:::
+
+:::{.lesson-card}
+### 📐 Kvadratsetningar
 - [Kvadratsetningar introduktión](kvadratsetningar-introduktion.qmd)
 - [Kvadratsetningar dømi](kvadratsetningar-domi.qmd)
 - [Prógv: 1.kvadratsetningur algebraiskt](progv-1kvadratsetningur-algebraiskt.qmd)
@@ -23,14 +34,26 @@ sidebar: sidebar-1g
 - [Prógv: 2.kvadratsetningur geometriskt](progv-2kvadratsetningur-geometriskt.qmd)
 - [Prógv: 3.kvadratsetningur algebraiskt](progv-3kvadratsetningur-algebraiskt.qmd)
 - [Prógv: 3.kvadratsetningar geometriskt](progv-3kvadratsetningar-geometriskt.qmd)
+:::
+
+:::{.lesson-card}
+### ⚡ Potensar
 - [Potensar](potensar.qmd)
 - [Potensroknireglur](potensroknireglur.qmd)
 - [Potensroknireglur 2](potensroknireglur-02.qmd)
 - [Potensroknireglur 3](potensroknireglur-03.qmd)
 - [Primtøl](primtol.qmd)
-- [Loysa tvær líkningar við tveimum ókendum - substitutión](loysa_tvaer_likningar-substitution.qmd)
-- [Loysa tvær líkningar við tveimum ókendum - koefficienthátturin](loysa_tvaer_likningar-koefficienthatturin.qmd)
-- [Loysa tvær líkningar við tveimum ókendum - grafiskt](loysa_tvaer_likningar-grafiskt.qmd)
+:::
+
+:::{.lesson-card}
+### 🎯 Líkningar
+- [Loysa tvær líkningar - substitutión](loysa_tvaer_likningar-substitution.qmd)
+- [Loysa tvær líkningar - koefficienthátturin](loysa_tvaer_likningar-koefficienthatturin.qmd)
+- [Loysa tvær líkningar - grafiskt](loysa_tvaer_likningar-grafiskt.qmd)
+:::
+
+:::{.lesson-card}
+### √ Røtur og Talmongdir
 - [Tøl - rationel og irrationel tøl](tol-rationel_og_irrationel.qmd)
 - [Rótroknireglur](rotroknireglur.qmd)
 - [Rótroknireglur 2](rotroknireglur-02.qmd)

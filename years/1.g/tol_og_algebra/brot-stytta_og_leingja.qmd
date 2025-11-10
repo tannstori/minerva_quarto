@@ -1,10 +1,10 @@
----
+﻿---
 title: "Brot - stytta og leingja"
 ---
 
 ## Innleiðing
 
-This lesson covers simplifying and extending fractions (stytta og leingja).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

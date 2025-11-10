@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: 3.kvadratsetningar geometriskt"
 ---
 
 ## Prógv
 
-This lesson proves the third quadratic identity geometrically.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

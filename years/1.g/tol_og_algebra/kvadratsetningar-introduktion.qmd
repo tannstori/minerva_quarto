@@ -1,10 +1,10 @@
----
+﻿---
 title: "Kvadratsetningar introduktión"
 ---
 
 ## Innleiðing
 
-This lesson introduces quadratic identities (kvadratsetningar).
+Henda undirv�sing innlei�ir evni�.
 
 ## Dummy Content
 

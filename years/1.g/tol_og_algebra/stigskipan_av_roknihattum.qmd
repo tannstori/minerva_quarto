@@ -1,10 +1,10 @@
----
+﻿---
 title: "Stigskipan av rokniháttum"
 ---
 
 ## Innleiðing
 
-This lesson covers the order of operations (stigskipan av rokniháttum).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

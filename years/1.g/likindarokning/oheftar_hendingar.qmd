@@ -1,10 +1,10 @@
----
+﻿---
 title: "Óheftar hendingar"
 ---
 
 ## Innleiðing
 
-This lesson covers independent events (óheftar hendingar).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

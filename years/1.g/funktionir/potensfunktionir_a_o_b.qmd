@@ -1,10 +1,10 @@
----
+﻿---
 title: "Potensfunktiónir a og b"
 ---
 
 ## Innleiðing
 
-This lesson covers power functions with parameters a and b.
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

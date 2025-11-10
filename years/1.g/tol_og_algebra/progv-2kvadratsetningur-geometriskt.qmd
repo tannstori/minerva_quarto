@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: 2.kvadratsetningur geometriskt"
 ---
 
 ## Prógv
 
-This lesson proves the second quadratic identity geometrically.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

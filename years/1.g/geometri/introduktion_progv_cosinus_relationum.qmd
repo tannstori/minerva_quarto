@@ -1,10 +1,10 @@
----
+﻿---
 title: "Introduktión og prógv av cosinus relatiónunum"
 ---
 
 ## Innleiðing og Prógv
 
-This lesson introduces and proves the cosine rule.
+Henda undirv�sing innlei�ir evni�.
 
 ## Dummy Content
 

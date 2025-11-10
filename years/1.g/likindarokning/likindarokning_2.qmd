@@ -1,10 +1,10 @@
----
+﻿---
 title: "Líkindarokning 2"
 ---
 
 ## Innleiðing
 
-This lesson continues with probability theory - part 2.
+Henda undirv�sing heldur fram vi� evninum.
 
 ## Dummy Content
 

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Annuitetsuppsparing setningur"
 ---
 
 ## Innleiðing
 
-This lesson covers the annuity savings theorem (annuitetsuppsparing setningur).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

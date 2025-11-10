@@ -1,10 +1,10 @@
----
+﻿---
 title: "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin"
 ---
 
 ## Innleiðing
 
-This lesson covers solving two equations with two unknowns using the coefficient method.
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

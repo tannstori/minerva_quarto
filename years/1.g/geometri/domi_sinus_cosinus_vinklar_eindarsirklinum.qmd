@@ -1,10 +1,10 @@
----
+﻿---
 title: "Dømi: Sinus og cosinus - vinklar í eindarsirklinum"
 ---
 
 ## Dømi
 
-This lesson provides examples of sine and cosine using the unit circle.
+Henda undirv�sing gevur d�mi um evni�.
 
 ## Dummy Content
 

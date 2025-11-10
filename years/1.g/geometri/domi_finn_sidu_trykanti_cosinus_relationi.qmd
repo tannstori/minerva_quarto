@@ -1,10 +1,10 @@
----
+﻿---
 title: "Dømi: Finn síðu í trýkanti við cosinus relatiónini"
 ---
 
 ## Dømi
 
-This lesson provides examples of finding sides using the cosine rule.
+Henda undirv�sing gevur d�mi um evni�.
 
 ## Dummy Content
 

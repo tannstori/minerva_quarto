@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: 3.kvadratsetningur algebraiskt"
 ---
 
 ## Prógv
 
-This lesson proves the third quadratic identity algebraically.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

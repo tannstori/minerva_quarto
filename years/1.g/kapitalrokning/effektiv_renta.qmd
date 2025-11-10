@@ -1,10 +1,10 @@
----
+﻿---
 title: "Effektiv renta"
 ---
 
 ## Innleiðing
 
-This lesson covers effective interest rate (effektiv renta).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

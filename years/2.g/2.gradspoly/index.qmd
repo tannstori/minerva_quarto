@@ -1,4 +1,4 @@
----
+﻿---
 title: "Andengradspolynomium og -ligning"
 sidebar: sidebar-2g
 ---

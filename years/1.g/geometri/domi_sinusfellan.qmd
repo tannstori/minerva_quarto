@@ -1,10 +1,10 @@
----
+﻿---
 title: "Dømi: Sinusfellan"
 ---
 
 ## Dømi
 
-This lesson provides examples of the ambiguous case.
+Henda undirv�sing gevur d�mi um evni�.
 
 ## Dummy Content
 

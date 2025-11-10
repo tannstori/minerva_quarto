@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: Areal í trýkanti við sinus"
 ---
 
 ## Prógv
 
-This lesson proves the area formula for triangles using sine.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

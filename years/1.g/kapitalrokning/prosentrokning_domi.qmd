@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prosentrokning dømi"
 ---
 
 ## Dømi
 
-This lesson provides examples of percentage calculations.
+Henda undirv�sing gevur d�mi um evni�.
 
 ## Dummy Content
 

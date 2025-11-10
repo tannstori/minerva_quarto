@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: 2.kvadratsetningur algebraiskt"
 ---
 
 ## Prógv
 
-This lesson proves the second quadratic identity algebraically.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

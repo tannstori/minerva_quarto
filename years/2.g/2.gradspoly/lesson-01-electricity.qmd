@@ -1,7 +1,7 @@
----
+﻿---
 title: "Electricity"
 ---
-This lesson covers basic electrical circuits and Ohm's law.
+Henda undirv�sing fevnir um evni�.
 
 <!-- TODO: Replace with real lesson video -->
 {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}

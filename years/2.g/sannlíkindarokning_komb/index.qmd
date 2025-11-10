@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sannlíkindarokning og kombinatorikkur"
 sidebar: sidebar-2g
 ---

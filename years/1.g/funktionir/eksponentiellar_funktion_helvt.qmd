@@ -1,10 +1,10 @@
----
+﻿---
 title: "Eksponentiellar funktión helvt"
 ---
 
 ## Innleiðing
 
-This lesson covers exponential functions with halving (helvt).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

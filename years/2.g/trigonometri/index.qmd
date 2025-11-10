@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trigonometri"
 sidebar: sidebar-2g
 ---

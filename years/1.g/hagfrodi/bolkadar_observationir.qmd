@@ -1,10 +1,10 @@
----
+﻿---
 title: "Bólkaðar observatiónir"
 ---
 
 ## Innleiðing
 
-This lesson covers grouped observations (bólkaðar observatiónir).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

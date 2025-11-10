@@ -1,10 +1,10 @@
----
+﻿---
 title: "Logaritmur 2"
 ---
 
 ## Innleiðing
 
-This lesson covers logarithms - part 2.
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

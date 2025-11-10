@@ -1,10 +1,10 @@
----
+﻿---
 title: "Annuitetsuppsparing prógv"
 ---
 
 ## Prógv
 
-This lesson proves the annuity savings theorem.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

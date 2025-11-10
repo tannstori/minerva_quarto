@@ -1,10 +1,10 @@
----
+﻿---
 title: "Prógv: 1.kvadratsetningur algebraiskt"
 ---
 
 ## Prógv
 
-This lesson proves the first quadratic identity algebraically.
+Henda undirv�sing pr�gvar evni�.
 
 ## Dummy Content
 

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Intro til annuitet"
 ---
 
 ## Innleiðing
 
-This lesson introduces annuities (intro til annuitet).
+Henda undirv�sing innlei�ir evni�.
 
 ## Dummy Content
 

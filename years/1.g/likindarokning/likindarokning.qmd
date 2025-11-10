@@ -1,10 +1,10 @@
----
+﻿---
 title: "Líkindarokning"
 ---
 
 ## Innleiðing
 
-This lesson introduces probability theory (líkindarokning).
+Henda undirv�sing innlei�ir evni�.
 
 ## Dummy Content
 

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Tøl - rationel og irrationel tøl"
 ---
 
 ## Innleiðing
 
-This lesson covers rational and irrational numbers.
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

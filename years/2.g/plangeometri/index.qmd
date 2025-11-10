@@ -1,4 +1,4 @@
----
+﻿---
 title: "Plangeometri"
 sidebar: sidebar-2g
 ---

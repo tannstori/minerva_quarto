@@ -1,10 +1,10 @@
----
+﻿---
 title: "Brot - falda og býta"
 ---
 
 ## Innleiðing
 
-This lesson covers multiplying and dividing fractions (falda og býta).
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 

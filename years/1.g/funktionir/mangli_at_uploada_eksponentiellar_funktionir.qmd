@@ -1,10 +1,10 @@
----
+﻿---
 title: "Mangli at uploada hetta - Eksponentiellar funktiónir"
 ---
 
 ## Innleiðing
 
-This lesson covers exponential functions (eksponentiellar funktiónir) - pending upload.
+Henda undirv�sing fevnir um evni�.
 
 ## Dummy Content
 
