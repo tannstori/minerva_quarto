@@ -66,3 +66,7 @@ Grafikurin av helvingsfunktiónini:
 - Minkir eksponentielt
 - Nálgast 0, men røkur aldri 0
 - Asymptota við $y = 0$
+
+
+## Filmur 
+{{< video https://youtu.be/j5VFCc4TOx8?si=Vk3GQOhmKna8JHQe >}}

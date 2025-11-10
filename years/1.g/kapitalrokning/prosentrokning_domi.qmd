@@ -33,3 +33,6 @@ $$
 $$
 \text{Heild} = \frac{45}{30} \times 100 = 150 \text{ kr}
 $$
+
+## Filmur 
+{{< video https://youtu.be/MfJfDm7PEQQ?si=iAWwJRgGFFEekCU7 >}}

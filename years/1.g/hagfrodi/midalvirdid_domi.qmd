@@ -51,3 +51,7 @@ $$
 $$
 
 Legg merkið til, at 210 cm ávirkar nógv á miðalvirðið (úthoyrissvirði).
+
+
+## Filmur 
+{{< video https://youtu.be/963x-OjmQvU?si=zhRba8B4yespK6UE >}}

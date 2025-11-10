@@ -61,3 +61,7 @@ Virði av $x$, har $f(x) = 0$
 
 **Forteiknsskifti:**
 Har funktiónin broytir frá positivum til negativum ella øvugt.
+
+
+## Filmur 
+{{< video https://youtu.be/hR0UROwcF9M?si=CBd7-9zDdTIdx0qX >}}

@@ -42,3 +42,6 @@ Við óbólkaðum observatiónum kunnu vit:
 - Fá dátapunkt
 - Neyv virði eru týdningarmikil
 - Einkel útrokning
+
+## Filmur 
+{{< video https://youtu.be/yyjUh5Cz6pw?si=OJqlfHbs4grTV1RV >}}

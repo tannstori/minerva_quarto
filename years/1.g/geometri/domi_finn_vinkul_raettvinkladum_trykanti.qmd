@@ -69,3 +69,7 @@ $$
 - Vita mótstøðu og hypotenusa? → Nýt **sinus**
 - Vita løggjandi og hypotenusa? → Nýt **cosinus**
 - Vita báðar katetir? → Nýt **tangens**
+
+
+## Filmur 
+{{< video https://youtu.be/erDX_XaLnhA?si=Mto1vKRr26luSrg2 >}}

@@ -37,3 +37,6 @@ $$
 - Sama terminsgjald hvønn termin
 - Rentuparturin minkir yvir tíð
 - Avdrátturparturin veksur yvir tíð
+
+## Filmur 
+{{< video https://youtu.be/vvrgPY2KJP0?si=24J2ZCzVrgEU6Mwz >}}

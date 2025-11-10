@@ -1,42 +1,35 @@
 ---
-title: "Minerva"
+title: "Vælkomin!"
 ---
 
-## Vælkomin til Minerva! 🎓
+Minerva er ein digitalur lærugrunnur fyri matematikk og náttúruvísindi. Her finnur tú í løtuni støddfrøðifilmar á miðnámsstøði.
 
-Minerva er ein digitálur lærugrunnur fyri matematikk og náttúruvísindi. Her finnur tú strukturaðar lektir, dømi og uppgávur fyri gymnasie-stigið.
+### Hvussu kanst tú brúka hesa heimasíðu?
 
-## Hvussu brúkar tú hesa heimasíðu?
+**Næmingar** kunnu brúka **navigatiónsstongina** ovast, fyri at velja árgang. Hvør lektión inniheldur teorii, dømi og prógv.
 
-**Elevir** kunnu brúka **navigatiónsstongina** ovantil ella **síðustongina** til vinstru at velja lektir eftir árgangi og evni. Hvør lektión inniheldur teorii, dømi og útskýringar.
+**Undirvísarar** kunnu geva elevum lektir, vitandi at allar lektir fylgja sama struktur. Lorem Ipsum...
 
-**Lærararar** kunnu geva elevum lektir, vitandi at allar lektir fylgja sama struktur. Síðustöngin vísir øll evni og lektir fyri hvønn fag.
+### Strukturur
 
-## Strukturur
-
-### 1.g - Fyrsti árgangi í gymnasie
-
-#### Matematikkevni:
-- [**Tøl og Algebra**](years/1.g/tol_og_algebra/index.qmd) – Grundleggjandi tølvísindi og algebraiski reknskap
-- [**Funktionir**](years/1.g/funktionir/index.qmd) – Linjurættar, eksponentiellar og logaritmiskar funktiónir
-- [**Geometri**](years/1.g/geometri/index.qmd) – Trýkantar, trigonometri og geometriskar satsar
-- [**Hagfrøði**](years/1.g/hagfrodi/index.qmd) – Miðal, standardfráviki, og grafiskar framløgur
+#### Støddfrøði C {#stoddfrodi-c}
+- [**Tøl og Algebra**](years/1.g/tol_og_algebra/index.qmd) – Tøl og algebra fevnir um talfatan og at loysa líkningar.
+- [**Funktionir**](years/1.g/funktionir/index.qmd) – Funktiónir lýsa eintýdda sambandið millum óhefta og hefta variabulin. Sambandið verður ásett á ymiskan hátt, so sum við rokniforskrift, við talvu, við grafi og við málsligum orðingum.
+- [**Geometri**](years/1.g/geometri/index.qmd) – Geometri snýr seg um at greina eginleikar hjá tveydimensionalum skapum.
+- [**Hagfrøði**](years/1.g/hagfrodi/index.qmd) – Hagfrøði er vísindaligur arbeiðsháttur, ið útvegar, viðger, greinar og tulkar tøl um eitt nú samfelagslig, búskaparlig og onnur viðurskifti.
 - [**Líkindarokning**](years/1.g/likindarokning/index.qmd) – Sannlíkindi, hendingar og líkindareglur
-- [**Kapitalrokning**](years/1.g/kapitalrokning/index.qmd) – Rentur, annuitetir og fíggjarrokningar
+- [**Kapitalrokning**](years/1.g/kapitalrokning/index.qmd) – Kapitalrokning fevnir bæði um at framskriva og afturskriva kapital. 
 
-### 2.g - Annar árgangi í gymnasie
+#### Støddfrøði B {#stoddfrodi-b}
 
-#### Framkomið matematikkevni:
-- [**2. Gradspoly**](years/2.g/2.gradspoly/index.qmd) – Kvadratiskar funktiónir og likningar
-- [**Differentialrokning**](years/2.g/differentialrokning/index.qmd) – Afleiðingar og funktiónsanalýsa
-- [**Funktionir**](years/2.g/funktionir/index.qmd) – Framkomin funktiónskennsla
-- [**Hagfrøði**](years/2.g/hagfrodi/index.qmd) – Framkomin hagtalsfrøði
+- [**2. Gradspoly**](years/2.g/2.gradspoly/index.qmd) – Kvadratiskar funktiónir og líkningar
+- [**Differentialrokning**](years/2.g/differentialrokning/index.qmd) – Avleiddar funktiónir og funktiónsanalysa
+- [**Funktionir**](years/2.g/funktionir/index.qmd) – 
+- [**Hagfrøði**](years/2.g/hagfrodi/index.qmd) – Framkomin hagfrøði
 - [**Plangeometri**](years/2.g/plangeometri/index.qmd) – Geometri í planinum
-- [**Regression**](years/2.g/regression/index.qmd) – Datamøting og trendir
+- [**Regression**](years/2.g/regression/index.qmd) – Data og trendir
 - [**Sannlíkindarokning & Komb.**](years/2.g/sannlíkindarokning_komb/index.qmd) – Kombinatórikk og sannlíkindi
 - [**Trigonometri**](years/2.g/trigonometri/index.qmd) – Framkomin trigonometri
-- [**Vektorar 2D**](years/2.g/vektorar_2d/index.qmd) – Vektorrøkning í tveimum dimensjónum
+- [**Vektorar 2D**](years/2.g/vektorar_2d/index.qmd) – Vektorrokning í tveimum dimensjónum
 
 ---
-
-**Byrja her:** Vel ein árgang í navigatiónsstongini ovantil, ella vel eitt evni í síðustongini til vinstru.

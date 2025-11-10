@@ -13,3 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ### Geometriskt prógv
 
 Vísir eitt kvadrat við síðum $(a + b)$ og skiftar tað í fýra partar.
+
+## Filmur 
+{{< video https://youtu.be/D65Gg48yALg?si=RN-3AUYqIRH9S12s >}}

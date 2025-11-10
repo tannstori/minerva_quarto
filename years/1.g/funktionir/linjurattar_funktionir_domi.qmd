@@ -88,3 +88,7 @@ har $x$ er tal av kilometur.
 $$
 C(8) = 12(8) + 50 = 96 + 50 = 146 \text{ kr}
 $$
+
+
+## Filmur 
+{{< video https://youtu.be/HxTgEUuk0Ic?si=OvMMfhIGD4slw81f >}}

@@ -1,0 +1,28 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const isHomepage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+  const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
+  const levelButtons = document.querySelectorAll('.navbar-nav .nav-link[href*="#stoddfrodi"]');
+  const navbarBrand = document.querySelector('.navbar-brand');
+  
+  if (isHomepage) {
+    // On homepage: hide back button, show level buttons
+    if (backButton && backButton.textContent.includes('Aftur')) {
+      backButton.style.display = 'none';
+    }
+  } else {
+    // On subject pages: hide level buttons, show back button
+    levelButtons.forEach(btn => btn.style.display = 'none');
+    
+    // Update navbar title based on current page
+    if (navbarBrand) {
+      const path = window.location.pathname;
+      if (path.includes('1.g')) {
+        navbarBrand.textContent = 'Støddfrøði C';
+      } else if (path.includes('2.g')) {
+        navbarBrand.textContent = 'Støddfrøði B';
+      }
+    }
+  }
+});
+</script>

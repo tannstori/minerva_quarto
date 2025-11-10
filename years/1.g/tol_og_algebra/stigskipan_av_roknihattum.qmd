@@ -16,3 +16,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 2. Potensar og røtur
 3. Faldingar og býtingar
 4. Leggingar og frádráttar
+
+## Filmur 
+{{< video https://youtu.be/NSBuRIYEQ9E?si=PFdGiHTeOp0XOP5d >}}

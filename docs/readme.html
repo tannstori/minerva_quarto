@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>readme – Minerva Classroom</title>
+<title>readme – Minerva</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -114,7 +114,7 @@ window.Quarto = {
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Minerva Classroom</span>
+    <span class="navbar-title">Minerva</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -127,82 +127,20 @@ window.Quarto = {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Minerva</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">← Aftur</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-g" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">1.g</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-g">    
-        <li>
-    <a class="dropdown-item" href="./years/1.g/tol_og_algebra/index.html">
- <span class="dropdown-text">Tøl og Algebra</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html#stoddfrodi-c"> 
+<span class="menu-text">Støddfrøði C</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./years/1.g/funktionir/index.html">
- <span class="dropdown-text">Funktionir</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html#stoddfrodi-b"> 
+<span class="menu-text">Støddfrøði B</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./years/1.g/geometri/index.html">
- <span class="dropdown-text">Geometri</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/1.g/hagfrodi/index.html">
- <span class="dropdown-text">Hagfrøði</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/1.g/likindarokning/index.html">
- <span class="dropdown-text">Líkindarokning</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/1.g/kapitalrokning/index.html">
- <span class="dropdown-text">Kapitalrokning</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-g-1" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">2.g</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-g-1">    
-        <li>
-    <a class="dropdown-item" href="./years/2.g/2.gradspoly/index.html">
- <span class="dropdown-text">2. Gradspoly</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/differentialrokning/index.html">
- <span class="dropdown-text">Differentialrokning</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/funktionir/index.html">
- <span class="dropdown-text">Funktionir</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/hagfrodi/index.html">
- <span class="dropdown-text">Hagfrøði</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/plangeometri/index.html">
- <span class="dropdown-text">Plangeometri</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/regression/index.html">
- <span class="dropdown-text">Regression</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/sannlíkindarokning_komb/index.html">
- <span class="dropdown-text">Sannlíkindarokning &amp; Komb.</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/trigonometri/index.html">
- <span class="dropdown-text">Trigonometri</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./years/2.g/vektorar_2d/index.html">
- <span class="dropdown-text">Vektorar 2D</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -259,6 +197,62 @@ Commit and push your files, then in your GitHub repo settings enable Pages from 
 </section>
 
 </main> <!-- /main -->
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+
+  const isHomepage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+
+  const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
+
+  const levelButtons = document.querySelectorAll('.navbar-nav .nav-link[href*="#stoddfrodi"]');
+
+  const navbarBrand = document.querySelector('.navbar-brand');
+
+  
+
+  if (isHomepage) {
+
+    // On homepage: hide back button, show level buttons
+
+    if (backButton && backButton.textContent.includes('Aftur')) {
+
+      backButton.style.display = 'none';
+
+    }
+
+  } else {
+
+    // On subject pages: hide level buttons, show back button
+
+    levelButtons.forEach(btn => btn.style.display = 'none');
+
+    
+
+    // Update navbar title based on current page
+
+    if (navbarBrand) {
+
+      const path = window.location.pathname;
+
+      if (path.includes('1.g')) {
+
+        navbarBrand.textContent = 'Støddfrøði C';
+
+      } else if (path.includes('2.g')) {
+
+        navbarBrand.textContent = 'Støddfrøði B';
+
+      }
+
+    }
+
+  }
+
+});
+
+</script>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

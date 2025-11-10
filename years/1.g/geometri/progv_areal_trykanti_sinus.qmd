@@ -63,3 +63,6 @@ A = \frac{1}{2} ab \sin(90°) = \frac{1}{2} ab \cdot 1 = \frac{1}{2} ab
 $$
 
 Hetta er sama sum $\frac{1}{2} \cdot \text{katetur} \cdot \text{katetur}$ ✓
+
+## Filmur 
+{{< video https://youtu.be/hirC0H_xMUM?si=GIqeJHUF_-ufh6yp >}}

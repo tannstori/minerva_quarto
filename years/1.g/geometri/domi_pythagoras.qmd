@@ -67,3 +67,6 @@ Finna avstondin millum punktini (1, 2) og (4, 6).
 $$
 d = \sqrt{(4-1)^2 + (6-2)^2} = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5
 $$
+
+## Filmur 
+{{< video https://youtu.be/QMvGoKKjDNw?si=-ZOteegsBO_fJka7 >}}

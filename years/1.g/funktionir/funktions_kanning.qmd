@@ -52,3 +52,7 @@ $$
 - **Vaksandi:** $x > 0$
 - **Minimum:** $(0, -4)$
 - **Asymptótar:** Eingi
+
+
+## Filmur 
+{{< video https://youtu.be/TEKFLjXEUug?si=syXh-XgFxxq4jSsq >}}

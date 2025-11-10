@@ -19,3 +19,6 @@ $$
 $$
 \frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \cdot \frac{d}{c}
 $$
+
+## Filmur 
+{{< video https://youtu.be/jvw76RbLG0g?si=wNpeWraOcbXR96gl >}}

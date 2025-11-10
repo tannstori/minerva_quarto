@@ -35,3 +35,7 @@ Hvat er sannlíkindið fyri at fáa tvær krúnur í røð?
 $$
 P(\text{KK}) = \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{4}
 $$
+
+
+## Filmur 
+{{< video https://youtu.be/NzbTa9p6QWA?si=HpUwfohlEj0yEwib >}}

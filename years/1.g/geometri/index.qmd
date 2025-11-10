@@ -1,5 +1,6 @@
 ---
 title: "Geometri"
+sidebar: sidebar-1g
 ---
 This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
 
@@ -32,8 +33,3 @@ This section contains math lessons for 7. klasse, covering basic algebra and ari
 - [Dømi: Finn vinkul í trýkanti við cosinus relatiónini](domi_finn_vinkul_trykanti_cosinus_relationi.qmd)
 - [Dømi: Finn síðu í trýkanti við cosinus relatiónini](domi_finn_sidu_trykanti_cosinus_relationi.qmd)
 
-
-As an example, here is a simple fraction calculation:
-$$
-\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
-$$

@@ -53,3 +53,6 @@ $$
 ### Nýtsla í kapitalrokning
 
 Summatiónstekin verður brúkt til at útleiða annuitetsformlum, har vit summera rað av gjøldum og rentum.
+
+## Filmur 
+{{< video https://youtu.be/9SE7k-wHeMQ?si=T6atb19KU0B0fw8Y >}}

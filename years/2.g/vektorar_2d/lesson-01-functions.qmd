@@ -4,7 +4,7 @@ title: "Functions"
 This lesson covers basic functions in math.
 
 <!-- TODO: Replace with real lesson video -->
-{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+{{< video https://youtu.be/Fxb_PSuxJtE?si=RrSEjkW3WqKZjcO1 >}}
 
 For example, evaluate the linear function:
 $$

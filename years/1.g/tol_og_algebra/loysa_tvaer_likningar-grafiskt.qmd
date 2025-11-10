@@ -15,3 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 1. Teikna báðar líkningarnar í eitt koordinatsystem
 2. Finna skurðpunktið
 3. Skurðpunktið er loysnin
+
+
+## Filmur 
+{{< video https://youtu.be/Wi93OUxB-FU?si=L7ZwxB9W4VzCYdux >}}

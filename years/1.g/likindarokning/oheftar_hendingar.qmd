@@ -33,3 +33,7 @@ $$
 ### Víðari dømi
 
 Kasta einum terningi og eina mynt. Hendingar eru óheftar, tí úrslitið av terninginum ávirkar ikki úrslitið av myntini.
+
+
+## Filmur 
+{{< video https://youtu.be/G1YMHxinnvc?si=UXJ_JOrohXWFl76L >}}

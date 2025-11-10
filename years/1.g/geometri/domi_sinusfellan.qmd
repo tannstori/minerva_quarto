@@ -70,3 +70,6 @@ Hædd: $h = 8 \sin(25°) \approx 3.38$
 Tí $a = 3 < h = 3.38$, er **eingin loysn** møgulig!
 
 Síðan $a$ er ov stutt til at røkka.
+
+## Filmur 
+{{< video https://youtu.be/PDwGjtSjD9Y?si=-1hH3Ad4_yMLf4ZG >}}

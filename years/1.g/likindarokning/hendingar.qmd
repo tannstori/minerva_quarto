@@ -29,3 +29,7 @@ Tá vit kasta einum terningi:
 $$
 P(A) = \frac{1}{6}, \quad P(B) = \frac{2}{6} = \frac{1}{3}
 $$
+
+
+## Filmur 
+{{< video https://youtu.be/llz7tJW4naQ?si=r76rsTAHE7FkYJjI >}}

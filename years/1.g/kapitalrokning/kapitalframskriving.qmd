@@ -34,3 +34,6 @@ $$
 ### Munur
 
 Samsett renta gevur størri vøkstur yvir tíð, tí at rentan av rentuni eisini verður lagd afturat.
+
+## Filmur 
+{{< video https://youtu.be/QYRi1zGohRo?si=AcEZrwjCu4YVV5sC >}}

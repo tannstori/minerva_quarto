@@ -52,3 +52,6 @@ Vit kunnu eisini nýta einsvinkling av trýkantum, sum verða gjørd, tá vit dr
 ### Historisk týdning
 
 Pythagorasarnir kendu til hetta sambandið longu fyri 2500 árum síðan, og tað er ein av teimum mest kendum setningum í matematikki.
+
+## Filmur 
+{{< video https://youtu.be/R60ugemHcAg?si=FBYlTw9cwKfZr4da >}}

@@ -52,3 +52,6 @@ $$
 $$
 L_1 = 2{,}000{,}000 - 5{,}453 = 1{,}994{,}547 \text{ kr}
 $$
+
+## Filmur 
+{{< video https://youtu.be/mT3c6KMj_e4?si=SXO1v-qLSO6v1Naa >}}

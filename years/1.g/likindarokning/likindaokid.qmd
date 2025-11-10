@@ -32,3 +32,7 @@ $$
 
 - Øll sannlíkindi eru millum 0 og 1
 - Summan av øllum sannlíkindum er 1
+
+
+## Filmur 
+{{< video https://youtu.be/aLPdDa82Nuw?si=egZ-urbu1GjyTiZp >}}

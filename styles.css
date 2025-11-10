@@ -66,6 +66,10 @@ h3 {
   padding: 0.8rem 1rem;
 }
 
+body {
+  padding-top: 0 !important;
+}
+
 .navbar-brand {
   font-size: 1.4em;
   font-weight: 700;
@@ -117,6 +121,7 @@ h3 {
   background-color: var(--minerva-card-bg);
   border-right: 1px solid var(--minerva-border);
   box-shadow: 2px 0 8px var(--minerva-shadow);
+  padding-top: 1rem !important;
 }
 
 .sidebar-title {
@@ -164,6 +169,19 @@ h3 {
   display: none;
 }
 
+/* Navbar styling improvements */
+.navbar {
+  min-height: 60px;
+}
+
+.navbar-brand {
+  transition: none !important;
+}
+
+.navbar-nav .nav-link {
+  transition: background-color 0.2s ease;
+}
+
 /* ========================================
    Content Area - Focus on Learning
    ======================================== */
@@ -173,8 +191,18 @@ h3 {
   padding: 2.5rem;
   border-radius: 10px;
   box-shadow: 0 2px 12px var(--minerva-shadow);
-  max-width: 1400px;
+  max-width: 1200px;
   margin: 2rem auto;
+  margin-top: 2rem;
+}
+
+.quarto-title-block {
+  padding-top: 1rem;
+  margin-top: 1.5rem;
+}
+
+#title-block-header {
+  margin-top: 0.5rem;
 }
 
 .quarto-container {

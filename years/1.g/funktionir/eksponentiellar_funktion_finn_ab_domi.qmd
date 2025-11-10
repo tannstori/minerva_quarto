@@ -136,3 +136,7 @@ f(x) = 80 \cdot 0.87^x
 $$
 
 Hetta merkir 13% minking um ár.
+
+
+## Filmur 
+{{< video https://youtu.be/FQDa_EGn_Tc?si=PRPf_CaCQeEF8nZF >}}

@@ -84,3 +84,6 @@ $$
 Tí $\cos(C) < -1$, er henda trýkanturin **ikki møguligur**!
 
 Trýhyrndungaroyskið er ikki hildið: $c$ er ov stórur.
+
+## Filmur 
+{{< video https://youtu.be/SCctnNKMWwE?si=XBu3llJc0tiMTkKQ >}}

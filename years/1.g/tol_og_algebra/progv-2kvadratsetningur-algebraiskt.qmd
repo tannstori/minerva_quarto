@@ -15,3 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 $$
 (a - b)^2 = (a - b)(a - b) = a^2 - ab - ba + b^2 = a^2 - 2ab + b^2
 $$
+
+## Filmur 
+{{< video https://youtu.be/8cgujpta6QU?si=g4vGAdyN77jXXbPa >}}

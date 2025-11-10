@@ -48,3 +48,7 @@ $$
 $$
 P(\text{báðar reyðar}) = \frac{3}{5} \cdot \frac{2}{4} = \frac{6}{20} = \frac{3}{10}
 $$
+
+
+## Filmur 
+{{< video https://youtu.be/4oZmrZe66jE?si=pT_FdC2PqRwi_PjF >}}

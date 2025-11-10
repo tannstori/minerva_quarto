@@ -58,3 +58,6 @@ Givið: $a = 6$, $b = 8$, $A = 30°$
 Hædd: $h = 8 \sin(30°) = 4$
 
 Tí $4 < 6 < 8$, hava vit **tvær loysnir**!
+
+## Filmur 
+{{< video https://youtu.be/0p669dSzD6Y?si=AHfvWoZZg1WChVNZ >}}

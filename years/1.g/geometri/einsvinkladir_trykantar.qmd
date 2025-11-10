@@ -36,3 +36,6 @@ Tveir trýkantar eru einsvinklaðir, um:
 ### Dømi
 
 Um ein trýkantur hevur síður 3, 4, 5 og ein annar hevur síður 6, 8, 10, so eru teir einsvinklaðir við skalafaktur $k = 2$.
+
+## Filmur 
+{{< video https://youtu.be/FFSOeIOqUNU?si=fd3pgK_08eblsUGc >}}

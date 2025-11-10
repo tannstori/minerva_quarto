@@ -43,3 +43,6 @@ K_{120} = 1{,}000 \cdot \frac{1.6470 - 1}{0.004167} = 1{,}000 \cdot 155.27 = 155
 $$
 
 Tú hevur lagt inn $1{,}000 \times 120 = 120{,}000$ kr, men hevur 155,270 kr!
+
+## Filmur 
+{{< video https://youtu.be/bSvlhRb51eQ?si=ZOpu0ZQ8DT0gH9wR >}}

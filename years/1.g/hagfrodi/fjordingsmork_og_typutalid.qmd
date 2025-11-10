@@ -51,3 +51,7 @@ $$
 Virði eru úthoyrissvirði, um:
 - Minni enn $Q1 - 1.5 \times IQR$
 - Størri enn $Q3 + 1.5 \times IQR$
+
+
+## Filmur 
+{{< video https://youtu.be/zRoI7zasny0?si=evk0aGScQrSr2tze >}}

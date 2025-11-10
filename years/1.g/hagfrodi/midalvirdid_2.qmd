@@ -50,3 +50,6 @@ $$
 - Miðalvirðið verður ávirka av øllum virðum
 - Úthoyrissvirði ávirka nógv
 - Gott mát fyri miðtalið tá dátini eru symmetriskt útspreidd
+
+## Filmur 
+{{< video https://youtu.be/VIdzPd5llMQ?si=9XfZ8mg4BCgQdML5 >}}

@@ -48,3 +48,6 @@ Grafikurin av potensfunktiónunum varierar við virðinum av $b$.
 Parameturin $a$ breytir:
 - Amplit (størð)
 - Fortekin (upp ella niður)
+
+## Filmur 
+{{< video https://youtu.be/W3J6A6v2LPM?si=6iIqrCFNRkZ0IfsP >}}

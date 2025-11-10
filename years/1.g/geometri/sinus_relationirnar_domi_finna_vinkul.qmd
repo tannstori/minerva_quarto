@@ -73,3 +73,6 @@ Báðir kunnu vera rætt! Hetta eitur "tvíræða føri" (ambiguous case).
 ### Ábending
 
 Altíð stekk, um vinkul eru møguligir (summað skal vera minni enn 180°).
+
+## Filmur 
+{{< video https://youtu.be/0p669dSzD6Y?si=cKs_aIMmE44WVL5x >}}

@@ -51,3 +51,6 @@ c = 5
 $$
 
 Hetta er ein "3-4-5" trýkantur - ein av teimum mest kendu pythagoreiskum trýkantum.
+
+## Filmur 
+{{< video https://youtu.be/-VZuibABRjU?si=uXCU7udmwyZJwRt9 >}}

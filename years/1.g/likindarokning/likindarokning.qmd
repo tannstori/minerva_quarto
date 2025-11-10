@@ -27,3 +27,6 @@ Tær eru 6 møgulig úrslit, tá vit kasta einum terningi. Sannlíkindið fyri a
 $$
 P(6) = \frac{1}{6}
 $$
+
+## Filmur 
+{{< video https://youtu.be/ofFqhg23qCo?si=bHTS12mo02Ku0L5u >}}

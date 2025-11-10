@@ -34,3 +34,6 @@ r_{\text{eff}} = \left(1 + \frac{0.06}{12}\right)^{12} - 1 = (1.005)^{12} - 1 = 
 $$
 
 Tann effektiva rentan er 6.17%, ikki 6%.
+
+## Filmur 
+{{< video https://youtu.be/SrvDtoIJrhg?si=Ufp4Otyf7s_jOKQr >}}

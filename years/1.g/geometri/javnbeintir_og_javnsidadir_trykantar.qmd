@@ -55,3 +55,6 @@ $$
 $$
 A = \frac{6^2\sqrt{3}}{4} = \frac{36\sqrt{3}}{4} = 9\sqrt{3} \approx 15.59 \text{ cm}^2
 $$
+
+## Filmur 
+{{< video https://youtu.be/Nf2qDtveGT8?si=xuWBaxHu3xSCQ06b >}}

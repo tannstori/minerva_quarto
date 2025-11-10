@@ -63,3 +63,7 @@ Teikna $f(x) = 2x - 1$:
 2. Frá hesum punkti: Far 1 til hægri, 2 upp (tí $a = 2$)
 3. Punkt: (1, 1)
 4. Draga linja ígjøgnum (0, -1) og (1, 1)
+
+
+## Filmur 
+{{< video https://youtu.be/S0_JBolArLw?si=DiN0jZ5MzFafT3dg >}}

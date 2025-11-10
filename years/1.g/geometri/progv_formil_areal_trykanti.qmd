@@ -55,3 +55,6 @@ Sostatt:
 $$
 A = \frac{1}{2} a h = \frac{1}{2} a (b \sin(C)) = \frac{1}{2} ab \sin(C)
 $$
+
+## Filmur 
+{{< video https://youtu.be/erDX_XaLnhA?si=uQlUp88OrXP3zYUF >}}

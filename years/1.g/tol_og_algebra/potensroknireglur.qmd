@@ -23,3 +23,7 @@ $$
 $$
 (a^m)^n = a^{mn}
 $$
+
+
+## Filmur 
+{{< video https://youtu.be/3kv1ATHASiQ?si=O3ilqaxowWsHehFf >}}

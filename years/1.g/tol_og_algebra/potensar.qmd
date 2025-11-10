@@ -15,3 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 $$
 a^n = \underbrace{a \cdot a \cdot ... \cdot a}_{n \text{ ferðir}}
 $$
+
+## Filmur 
+{{< video https://youtu.be/5PL6BmjnkLI?si=OafpnvymcG1qGv9R >}}

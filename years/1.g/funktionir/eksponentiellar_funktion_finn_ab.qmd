@@ -86,3 +86,7 @@ Hetta verður nýtt til:
 - Finna vøksturssatsar
 - Spáa framtíðar virði
 - Analysera eksperimentlíkar dáta
+
+
+## Filmur 
+{{< video https://youtu.be/5Ce5MLSjSvA?si=7Qwgp9z8J9zkv768 >}}

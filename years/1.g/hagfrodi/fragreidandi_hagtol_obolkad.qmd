@@ -47,3 +47,7 @@ Dáta: 3, 5, 7, 7, 8, 9, 11
 ### Tá við óbólkaðum dátum
 
 Vit brúka hesi mát, tá vit hava einstøk dátapunkt, ikki bólkar av dátum.
+
+
+## Filmur 
+{{< video https://youtu.be/eNiC9X4AbgE?si=D2cBhLWd7OfVvDJ9 >}}

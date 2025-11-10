@@ -78,3 +78,7 @@ Logaritmar verða nýttir til at:
 - Loysa eksponentlíkar líkningar
 - Linearisera eksponentlíkar dáta
 - Mátgerð í rásindaløgum (pH, Richter, decibel)
+
+
+## Filmur 
+{{< video https://youtu.be/NM5JTRFnK3g?si=xdafAbGGMIqG0rcj >}}

@@ -1,5 +1,6 @@
 ---
 title: "Andengradspolynomium og -ligning"
+sidebar: sidebar-2g
 ---
 This section contains physics lessons for 8. klasse, including electricity.
 

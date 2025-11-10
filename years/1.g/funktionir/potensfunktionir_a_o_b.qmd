@@ -56,3 +56,6 @@ Her er $a = -\frac{1}{2}$ og $b = -2$.
 - $b = 2$: Kvadratisk
 - $b = \frac{1}{2}$: Kvadratrót
 - $b = -1$: Reciprokur
+
+## Filmur 
+{{< video https://youtu.be/49jM_ROK4RE?si=Z9NnwpPjtG1lpbvO >}}

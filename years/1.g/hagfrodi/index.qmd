@@ -1,5 +1,6 @@
 ---
 title: "Hagfrøði"
+sidebar: sidebar-1g
 ---
 This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
 
@@ -21,7 +22,3 @@ This section contains math lessons for 7. klasse, covering basic algebra and ari
 - [S rás](s_ras.qmd)
 
 
-As an example, here is a simple fraction calculation:
-$$
-\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
-$$

@@ -47,3 +47,6 @@ $$
 $$
 y = \frac{L \cdot r}{1 - (1+r)^{-n}} = \frac{L \cdot r \cdot (1+r)^n}{(1+r)^n - 1}
 $$
+
+## Filmur 
+{{< video https://youtu.be/fQb2mesOEx8?si=HoliUxaLpL9IHmnl >}}

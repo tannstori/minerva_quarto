@@ -70,3 +70,7 @@ Ymiskir litir kunnu brúkast til at:
 - Framheva týdningarmiklar kategoriar
 - Flokka relatera dáta
 - Gera myndina meira áhugaverda
+
+
+## Filmur 
+{{< video https://youtu.be/3H3xFYyKeZ0?si=354urqjPayTf49Ec >}}

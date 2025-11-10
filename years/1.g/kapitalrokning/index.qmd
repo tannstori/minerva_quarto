@@ -1,5 +1,6 @@
 ---
 title: "Kapitalrokning"
+sidebar: sidebar-1g
 ---
 This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
 

@@ -32,3 +32,6 @@ $$
 $$
 \text{Heild} = \frac{\text{Partur}}{p} \times 100
 $$
+
+## Filmur 
+{{< video https://youtu.be/iY6lKDvv5fg?si=EGg5fiUoEsp9hWVg >}}

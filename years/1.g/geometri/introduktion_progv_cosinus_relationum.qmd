@@ -70,3 +70,7 @@ c^2 = a^2 + b^2 - 2ab \cos(90°) = a^2 + b^2 - 0 = a^2 + b^2
 $$
 
 Hetta er Pythagoras! ✓
+
+
+## Filmur 
+{{< video https://youtu.be/OqUJW6Nb6iA?si=DnghmJv-ViE8xhbF >}}

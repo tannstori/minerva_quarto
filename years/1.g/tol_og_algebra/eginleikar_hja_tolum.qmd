@@ -12,6 +12,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ### Properties
 
-- Kommutativ eginleiki
+- Komutativ eginleiki
 - Assosiativ eginleiki
 - Distributiv eginleiki
+- Neutralt element
+- Øvugt tal
+
+
+
+## Filmur 
+{{< video https://youtu.be/ZnwK6ea3Ytk?si=tdr15TfnAiBgsMbc >}}

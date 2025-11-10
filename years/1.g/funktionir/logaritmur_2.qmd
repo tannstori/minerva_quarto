@@ -75,3 +75,6 @@ Logaritmfunktiónin $f(x) = \log(x)$:
 - Fer ígjøgnum (1, 0)
 - Vaksandi funktión
 - Asymptota við $x = 0$
+
+## Filmur 
+{{< video https://youtu.be/6h6VmoMa1Ww?si=tU4LiwNL7s6Rvepy >}}

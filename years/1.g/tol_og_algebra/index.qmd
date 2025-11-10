@@ -1,7 +1,8 @@
 ---
-title: "Tøl og Algebra"
+title: "Innihaldsyvirlit"
+sidebar: sidebar-1g
 ---
-This section contains physics lessons for 7. klasse, including topics on motion.
+**Innihaldsyvirlit**
 
 - [Tøl - nátúrlig og heiltøl](tol-naturlig_og_heiltol.qmd)
 - [Tøl - makað og støk tøl](tol-makad_og_stok.qmd)
@@ -35,8 +36,3 @@ This section contains physics lessons for 7. klasse, including topics on motion.
 - [Rótroknireglur 2](rotroknireglur-02.qmd)
 - [Røtur og rótroknireglur](rotur_og_rotroknireglur.qmd)
 
-
-For example, the equation for distance under constant acceleration:
-$$
-s = v_0 t + \frac{1}{2} a t^2.
-$$

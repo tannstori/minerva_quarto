@@ -59,3 +59,7 @@ har $f_i$ er hyppigheitin og $x_i$ er miðpunktið í hvørjum bólki.
 - Vit missa náttúrligu dátini
 - Útrokningar eru einans umleið neyvar
 - Val av bólkum ávirkar úrslitið
+
+
+## Filmur 
+{{< video https://youtu.be/J9UuJkgCf8g?si=AzrGZStZdXDM-MdV >}}

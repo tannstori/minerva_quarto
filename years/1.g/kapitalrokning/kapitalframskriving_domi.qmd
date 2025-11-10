@@ -45,3 +45,6 @@ K_{20} = 10{,}000 \cdot (1.05)^{20} = 26{,}532.98 \text{ kr}
 $$
 
 Munurin er munandi størri yvir longri tíð!
+
+## Filmur 
+{{< video https://youtu.be/ROLmPvgTRy0?si=gZzF3P92Qig7-Qg0 >}}

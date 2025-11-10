@@ -63,3 +63,7 @@ $$
 - Hugsa um at broyta kalkulator til DEG (degrees) ella RAD (radians)
 - Stekk altíð um útslitið gevur meining
 - Annar vinkul er $90° - \theta$
+
+
+## Filmur 
+{{< video https://youtu.be/HFwsq3nWWvc?si=8lp5FossXtidDsRL >}}

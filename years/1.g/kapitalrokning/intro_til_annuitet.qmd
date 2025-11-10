@@ -42,3 +42,6 @@ Annuitetar gera tað lætt at planleiggja fíggjarligu málini:
 - Fast gjald hvønn termin
 - Sama rentan yvir heila tíðarskeiðið
 - Kann roknast út við formulum
+
+## Filmur 
+{{< video https://youtu.be/66DL-H0n_Ns?si=aq6VvEsfmb_EDrMG >}}

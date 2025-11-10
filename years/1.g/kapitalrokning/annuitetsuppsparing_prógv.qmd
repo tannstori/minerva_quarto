@@ -62,3 +62,6 @@ Men ofta brúkt forma er:
 $$
 K_n = y \cdot \frac{(1+r)^n - 1}{r}
 $$
+
+## Filmur 
+{{< video https://youtu.be/apFfeLmMeBY?si=jUw_7qHd_oZIjPaR >}}

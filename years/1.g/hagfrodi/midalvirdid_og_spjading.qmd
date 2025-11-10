@@ -61,3 +61,7 @@ $$
 
 - Lítil spjaðing: Dátini eru tætt kring miðalvirðið
 - Stór spjaðing: Dátini eru víða spreidd
+
+
+## Filmur 
+{{< video https://youtu.be/VIdzPd5llMQ?si=68RiiUzEyvZvwj8D >}}

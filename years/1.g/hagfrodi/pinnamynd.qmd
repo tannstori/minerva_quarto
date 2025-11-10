@@ -43,3 +43,7 @@ Pinnamynd vísir:
 
 - Ikki góðar við nógvum dátum
 - Ikki góðar við stórum talum
+
+
+## Filmur 
+{{< video https://youtu.be/9H5D_R-AzeU?si=M9XoTstMZXbJrNKL >}}

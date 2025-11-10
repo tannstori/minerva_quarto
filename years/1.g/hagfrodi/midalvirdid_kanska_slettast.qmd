@@ -51,3 +51,7 @@ Um vit leggja somu talið $c$ afturat øllum dátum, so veksur miðalvirðið ei
 $$
 \overline{x + c} = \bar{x} + c
 $$
+
+
+## Filmur 
+{{< video https://youtu.be/zRoI7zasny0?si=K8-mEEDIZQffi3qX >}}

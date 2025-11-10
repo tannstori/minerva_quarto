@@ -68,3 +68,7 @@ $$
 har $e \approx 2.71828$ (Euler tali).
 
 Hetta er serliga týdningarmikil í matematikki og náttúruvísindum.
+
+
+## Filmur 
+{{< video https://youtu.be/J9UuJkgCf8g?si=AzrGZStZdXDM-MdV >}}

@@ -73,3 +73,7 @@ $$
 Ein parallellogram hevur síður 8 cm og 12 cm, og ein av vinklunum er 50°.
 
 Finna diagonalina (nýt sinusrelatiónina í einum av trýkantunum).
+
+
+## Filmur 
+{{< video https://youtu.be/_D33WvuCy-E?si=ZSvBly_0-zOFLMgJ >}}

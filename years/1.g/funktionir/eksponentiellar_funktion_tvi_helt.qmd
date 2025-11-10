@@ -80,3 +80,7 @@ T_2 \approx \frac{72}{\text{prósent vøkstur}}
 $$
 
 Fyri 5%: $T_2 \approx \frac{72}{5} = 14.4$ ár ✓
+
+
+## Filmur 
+{{< video https://youtu.be/rdYhGm685mM?si=Pu6zg0GBibfl4JLY >}}

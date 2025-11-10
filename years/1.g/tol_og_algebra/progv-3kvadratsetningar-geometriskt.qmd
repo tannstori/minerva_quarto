@@ -13,3 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ### Geometriskt prógv
 
 Vísir eitt rektangul við síðum $a$ og $b$ og minkað eitt kvadrat.
+
+## Filmur 
+{{< video https://youtu.be/0BzvhQ5-jJw?si=SlZAQJg0pdY9yQIt >}}

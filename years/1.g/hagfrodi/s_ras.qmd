@@ -64,3 +64,7 @@ S rás er serliga nýtilig til:
 ### Samanberjan
 
 Vit kunnu leggja fleiri S-rásir í sama grafin til at samanbera ymisk býti.
+
+
+## Filmur 
+{{< video https://youtu.be/-73hm00pp_8?si=cdtDEbyDmKVH8Lp3 >}}

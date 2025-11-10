@@ -1,5 +1,6 @@
 ---
 title: "Plangeometri"
+sidebar: sidebar-2g
 ---
 This section contains math lessons for 8. klasse, covering intermediate topics.
 

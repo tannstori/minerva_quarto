@@ -19,3 +19,6 @@ $$
 $$
 \left(\frac{a}{b}\right)^n = \frac{a^n}{b^n}
 $$
+
+## Filmur 
+{{< video https://youtu.be/Mx7gINff2Wo?si=7DpMhME82kktHQH3 >}}

@@ -59,3 +59,7 @@ $$
 Men "løggjandi" fyri $90° - \theta$ er "mótstøðu" fyri $\theta$!
 
 Sostatt: $\sin(\theta) = \cos(90° - \theta)$ ✓
+
+
+## Filmur 
+{{< video https://youtu.be/xQo4BAjfhJQ?si=cNknexoBBb3Zz1M0 >}}

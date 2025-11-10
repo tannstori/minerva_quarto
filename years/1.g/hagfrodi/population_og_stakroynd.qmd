@@ -36,3 +36,6 @@ Ein góð stakroynd skal vera:
 - Representativ fyri populatiónina
 - Tilvildarlig vald
 - Nóg stór
+
+## Filmur 
+{{< video https://youtu.be/Pg-sK6egk4o?si=P_BvKCo63JH4kvuV >}}

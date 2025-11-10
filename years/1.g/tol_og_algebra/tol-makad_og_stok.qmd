@@ -4,7 +4,7 @@ title: "Tøl - makað og støk tøl"
 
 ## Innleiðing
 
-This lesson covers even and odd numbers (makað og støk tøl).
+Her læra vit um makað og støk tøl.
 
 ## Dummy Content
 
@@ -17,5 +17,7 @@ $$
 $$
 
 $$
-2n+1 \text{ er støkt}
+2n+1 \text{ er stakt}
 $$
+
+{{< video https://youtu.be/cKzJuSgSyh0?si=anG6tLO4xq15NjIO >}}
