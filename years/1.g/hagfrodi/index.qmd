@@ -1,0 +1,27 @@
+---
+title: "Hagfrøði"
+---
+This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
+
+
+- [Populatión og stakroynd](population_og_stakroynd.qmd)
+- [Pinnamynd](pinnamynd.qmd)
+- [Óbólkaðar observatiónir](obolkadar_observationir.qmd)
+- [Miðalvirðið 2](midalvirdid_2.qmd)
+- [Miðalvirðið og spjaðing](midalvirdid_og_spjading.qmd)
+- [Miðalvirðið dømi](midalvirdid_domi.qmd)
+- [Fjórðingsmørk og typutalið](fjordingsmork_og_typutalid.qmd)
+- [Miðalvirðið - kanska slettast](midalvirdid_kanska_slettast.qmd)
+- [Frágreiðandi hagtøl óbólkað](fragreidandi_hagtol_obolkad.qmd)
+- [Fjórðingsmørk median typutal ol](fjordingsmork_median_typutal_ol.qmd)
+- [Bólkaðar observatiónir](bolkadar_observationir.qmd)
+- [Trappumynd](trappumynd.qmd)
+- [Summatiónstekin v2](summationstekin_v2.qmd)
+- [Stabbamynd v2](stabbamynd_v2.qmd)
+- [S rás](s_ras.qmd)
+
+
+As an example, here is a simple fraction calculation:
+$$
+\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
+$$

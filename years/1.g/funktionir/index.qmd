@@ -1,0 +1,31 @@
+---
+title: "Funktiónir"
+---
+This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
+
+
+- [Potensfunktiónir a og b](potensfunktionir_a_o_b.qmd)
+- [Potensfunktiónir 2](potensfunktionir_2.qmd)
+- [Potensfunktiónir 1](potensfunktionir_1.qmd)
+- [Logaritmur roknireglur](logaritmur_roknireglur.qmd)
+- [Logaritmur 2](logaritmur_2.qmd)
+- [Logaritmur 1](logaritmur_1.qmd)
+- [Linjurættar funktiónir a og b prógv](linjurattar_funktionir_a_og_b_progv.qmd)
+- [Linjurættar funktiónir a og b](linjurattar_funktionir_a_og_b.qmd)
+- [Linjurættar funktiónir 2](linjurattar_funktionir_2.qmd)
+- [Linjurættar funktiónir 1](linjurattar_funktionir_1.qmd)
+- [Linjurættar funktiónir dømi](linjurattar_funktionir_domi.qmd)
+- [Funktións kanning 2](funktions_kanning_2.qmd)
+- [Funktións kanning](funktions_kanning.qmd)
+- [Mangli at uploada hetta - Eksponentiellar funktiónir](mangli_at_uploada_eksponentiellar_funktionir.qmd)
+- [Eksponentiellar funktión helvt](eksponentiellar_funktion_helvt.qmd)
+- [Eksponentiellar funktión tví helt](eksponentiellar_funktion_tvi_helt.qmd)
+- [Eksponentiellar funktión tví prógv](eksponentiellar_funktion_tvi_progv.qmd)
+- [Eksponentiellar funktión finn ab dømi](eksponentiellar_funktion_finn_ab_domi.qmd)
+- [Eksponentiellar funktión finn ab](eksponentiellar_funktion_finn_ab.qmd)
+
+
+As an example, here is a simple fraction calculation:
+$$
+\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
+$$

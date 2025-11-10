@@ -1,0 +1,17 @@
+---
+title: "Loysa tvær líkningar við tveimum ókendum - grafiskt"
+---
+
+## Innleiðing
+
+This lesson covers solving two equations with two unknowns graphically.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Háttur
+
+1. Teikna báðar líkningarnar í eitt koordinatsystem
+2. Finna skurðpunktið
+3. Skurðpunktið er loysnin

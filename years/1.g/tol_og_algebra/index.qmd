@@ -1,0 +1,42 @@
+---
+title: "Tøl og Algebra"
+---
+This section contains physics lessons for 7. klasse, including topics on motion.
+
+- [Tøl - nátúrlig og heiltøl](tol-naturlig_og_heiltol.qmd)
+- [Tøl - makað og støk tøl](tol-makad_og_stok.qmd)
+- [Eginleikar hjá tølum](eginleikar_hja_tolum.qmd)
+- [Eginleikar hjá tølum - dømi](eginleikar_hja_tolum-domi.qmd)
+- [Stigskipan av rokniháttum](stigskipan_av_roknihattum.qmd)
+- [Brot 1](brot-01.qmd)
+- [Brot 2](brot-02.qmd)
+- [Brot - stytta og leingja](brot-stytta_og_leingja.qmd)
+- [Brot - stytta og leingja 2](brot-stytta_og_leingja-02.qmd)
+- [Brot - stytta og leingja dømi](brot-stytta_og_leingja-domi.qmd)
+- [Brot - falda og býta](brot-falda_og_byta.qmd)
+- [Kvadratsetningar introduktión](kvadratsetningar-introduktion.qmd)
+- [Kvadratsetningar dømi](kvadratsetningar-domi.qmd)
+- [Prógv: 1.kvadratsetningur algebraiskt](progv-1kvadratsetningur-algebraiskt.qmd)
+- [Prógv: 1.kvadratsetningur geometriskt](progv-1kvadratsetningur-geometriskt.qmd)
+- [Prógv: 2.kvadratsetningur algebraiskt](progv-2kvadratsetningur-algebraiskt.qmd)
+- [Prógv: 2.kvadratsetningur geometriskt](progv-2kvadratsetningur-geometriskt.qmd)
+- [Prógv: 3.kvadratsetningur algebraiskt](progv-3kvadratsetningur-algebraiskt.qmd)
+- [Prógv: 3.kvadratsetningar geometriskt](progv-3kvadratsetningar-geometriskt.qmd)
+- [Potensar](potensar.qmd)
+- [Potensroknireglur](potensroknireglur.qmd)
+- [Potensroknireglur 2](potensroknireglur-02.qmd)
+- [Potensroknireglur 3](potensroknireglur-03.qmd)
+- [Primtøl](primtol.qmd)
+- [Loysa tvær líkningar við tveimum ókendum - substitutión](loysa_tvaer_likningar-substitution.qmd)
+- [Loysa tvær líkningar við tveimum ókendum - koefficienthátturin](loysa_tvaer_likningar-koefficienthatturin.qmd)
+- [Loysa tvær líkningar við tveimum ókendum - grafiskt](loysa_tvaer_likningar-grafiskt.qmd)
+- [Tøl - rationel og irrationel tøl](tol-rationel_og_irrationel.qmd)
+- [Rótroknireglur](rotroknireglur.qmd)
+- [Rótroknireglur 2](rotroknireglur-02.qmd)
+- [Røtur og rótroknireglur](rotur_og_rotroknireglur.qmd)
+
+
+For example, the equation for distance under constant acceleration:
+$$
+s = v_0 t + \frac{1}{2} a t^2.
+$$

@@ -1,0 +1,17 @@
+---
+title: "Loysa tvær líkningar við tveimum ókendum - koefficienthátturin"
+---
+
+## Innleiðing
+
+This lesson covers solving two equations with two unknowns using the coefficient method.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Háttur
+
+1. Fá líka koeffisientar fyri eitt ókent
+2. Legg saman ella dreg frá
+3. Loysa fyri tí síðsta ókenda

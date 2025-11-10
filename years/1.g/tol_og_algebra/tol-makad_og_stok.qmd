@@ -1,0 +1,21 @@
+---
+title: "Tøl - makað og støk tøl"
+---
+
+## Innleiðing
+
+This lesson covers even and odd numbers (makað og støk tøl).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+2n \text{ er makað}
+$$
+
+$$
+2n+1 \text{ er støkt}
+$$

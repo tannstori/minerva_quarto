@@ -1,0 +1,31 @@
+---
+title: "Prosent"
+---
+
+## Innleiðing
+
+This lesson covers percentages (prosent).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Hvat er prosent?
+
+Prosent merkir "av hundrað" og er ein máti at vísa eitt brot av einum heild.
+
+### Formul
+
+$$
+\text{Prosent} = \frac{\text{Partur}}{\text{Heild}} \times 100\%
+$$
+
+### Dømi
+
+$$
+\frac{1}{4} = 0.25 = 25\%
+$$
+
+$$
+\frac{1}{2} = 0.50 = 50\%
+$$

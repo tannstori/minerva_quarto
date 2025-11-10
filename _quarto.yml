@@ -1,0 +1,159 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme: cosmo
+    math: true
+    css: styles.css
+
+website:
+  title: "Minerva Classroom"
+  site-url: "TODO: add base URL"
+  search: true
+  navbar:
+    left:
+      - text: "Minerva"
+        href: index.qmd
+    right:
+      - text: "1.g"
+        menu:
+          - text: "Tøl og Algebra"
+            href: years/1.g/tol_og_algebra/index.qmd
+          - text: "Funktionir"
+            href: years/1.g/funktionir/index.qmd
+          - text: "Geometri"
+            href: years/1.g/geometri/index.qmd
+          - text: "Hagfrøði"
+            href: years/1.g/hagfrodi/index.qmd
+          - text: "Líkindarokning"
+            href: years/1.g/likindarokning/index.qmd
+          - text: "Kapitalrokning"
+            href: years/1.g/kapitalrokning/index.qmd
+      - text: "2.g"
+        menu:
+          - text: "2. Gradspoly"
+            href: years/2.g/2.gradspoly/index.qmd
+          - text: "Differentialrokning"
+            href: years/2.g/differentialrokning/index.qmd
+          - text: "Funktionir"
+            href: years/2.g/funktionir/index.qmd
+          - text: "Hagfrøði"
+            href: years/2.g/hagfrodi/index.qmd
+          - text: "Plangeometri"
+            href: years/2.g/plangeometri/index.qmd
+          - text: "Regression"
+            href: years/2.g/regression/index.qmd
+          - text: "Sannlíkindarokning & Komb."
+            href: years/2.g/sannlíkindarokning_komb/index.qmd
+          - text: "Trigonometri"
+            href: years/2.g/trigonometri/index.qmd
+          - text: "Vektorar 2D"
+            href: years/2.g/vektorar_2d/index.qmd
+  sidebar:
+    - title: "Tøl og Algebra"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/1.g/tol_og_algebra/index.qmd
+        - section: "Lektir"
+          contents: years/1.g/tol_og_algebra/*.qmd
+    - title: "Funktionir"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/1.g/funktionir/index.qmd
+        - section: "Lektir"
+          contents: years/1.g/funktionir/*.qmd
+    - title: "Geometri"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/1.g/geometri/index.qmd
+        - section: "Lektir"
+          contents: years/1.g/geometri/*.qmd
+    - title: "Hagfrøði (1.g)"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/1.g/hagfrodi/index.qmd
+        - section: "Lektir"
+          contents: years/1.g/hagfrodi/*.qmd
+    - title: "Líkindarokning"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/1.g/likindarokning/index.qmd
+        - section: "Lektir"
+          contents: years/1.g/likindarokning/*.qmd
+    - title: "Kapitalrokning"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/1.g/kapitalrokning/index.qmd
+        - section: "Lektir"
+          contents: years/1.g/kapitalrokning/*.qmd
+    - title: "2. Gradspoly"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/2.gradspoly/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/2.gradspoly/*.qmd
+    - title: "Differentialrokning"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/differentialrokning/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/differentialrokning/*.qmd
+    - title: "Funktionir (2.g)"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/funktionir/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/funktionir/*.qmd
+    - title: "Hagfrøði (2.g)"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/hagfrodi/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/hagfrodi/*.qmd
+    - title: "Plangeometri"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/plangeometri/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/plangeometri/*.qmd
+    - title: "Regression"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/regression/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/regression/*.qmd
+    - title: "Sannlíkindarokning & Komb."
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/sannlíkindarokning_komb/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/sannlíkindarokning_komb/*.qmd
+    - title: "Trigonometri"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/trigonometri/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/trigonometri/*.qmd
+    - title: "Vektorar 2D"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - years/2.g/vektorar_2d/index.qmd
+        - section: "Lektir"
+          contents: years/2.g/vektorar_2d/*.qmd

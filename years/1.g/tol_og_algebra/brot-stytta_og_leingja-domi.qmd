@@ -1,0 +1,23 @@
+---
+title: "Brot - stytta og leingja dømi"
+---
+
+## Dømi
+
+This lesson provides examples of simplifying and extending fractions.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Dømi 1
+
+$$
+\frac{12}{18} = \frac{2}{3}
+$$
+
+### Dømi 2
+
+$$
+\frac{1}{2} = \frac{5}{10}
+$$

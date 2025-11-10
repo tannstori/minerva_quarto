@@ -1,0 +1,25 @@
+---
+title: "Potensroknireglur"
+---
+
+## Innleiðing
+
+This lesson covers rules for exponents (potensroknireglur).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Reglur
+
+$$
+a^m \cdot a^n = a^{m+n}
+$$
+
+$$
+\frac{a^m}{a^n} = a^{m-n}
+$$
+
+$$
+(a^m)^n = a^{mn}
+$$

@@ -1,0 +1,17 @@
+---
+title: "Eginleikar hjá tølum"
+---
+
+## Innleiðing
+
+This lesson covers properties of numbers (eginleikar hjá tølum).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Properties
+
+- Kommutativ eginleiki
+- Assosiativ eginleiki
+- Distributiv eginleiki

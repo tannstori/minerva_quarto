@@ -1,0 +1,39 @@
+---
+title: "Geometri"
+---
+This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
+
+
+- [Einsvinklaðir trýkantar](einsvinkladir_trykantar.qmd)
+- [Dømi: Einsvinklaðir trýkantar](domi_einsvinkladir_trykantar.qmd)
+- [Javnbeintir og javnsíðaðir trýkantar](javnbeintir_og_javnsidadir_trykantar.qmd)
+- [Prógv: Vinkulsamløgan í trýkantum](progv_vinkulsamlogan_i_trykantum.qmd)
+- [Rættvinklaðir trýkantar](raettvinkladir_trykantar.qmd)
+- [Dømi: Pythagoras](domi_pythagoras.qmd)
+- [Prógv: Pythagoras](progv_pythagoras.qmd)
+- [Dømi: Pythagoras 2](domi_pythagoras_2.qmd)
+- [Sinus og cosinus í rættvinklaðum trýkantum](sinus_og_cosinus_i_raettvinkladum_trykantum.qmd)
+- [Dømi: Sinus og cosinus - vinklar í eindarsirklinum](domi_sinus_cosinus_vinklar_eindarsirklinum.qmd)
+- [Dømi: Sinus og cosinus - vinklar í eindarsirklinum 2](domi_sinus_cosinus_vinklar_eindarsirklinum_2.qmd)
+- [Prógv: Sinus og cosinus í rættvinklaðum trýkantum](progv_sinus_cosinus_raettvinkladum_trykantum.qmd)
+- [Dømi: Finn manglandi síður og vinklar í rættvinklaðum trýkantum](domi_finn_manglandi_sidur_vinklar.qmd)
+- [Dømi: Finn vinkul í rættvinklaðum trýkanti við sinus formlinum](domi_finn_vinkul_sinus_formlinum.qmd)
+- [Dømi: Finn vinkul i rættvinklaðum trýkanti](domi_finn_vinkul_raettvinkladum_trykanti.qmd)
+- [Prógv: Formil fyri at finna areal á trýkanti](progv_formil_areal_trykanti.qmd)
+- [Dømi: Finn areal á trýkanti við sinus](domi_finn_areal_trykanti_sinus.qmd)
+- [Prógv: Areal í trýkanti við sinus](progv_areal_trykanti_sinus.qmd)
+- [Introduktión og prógv av sinus relatiónunum](introduktion_progv_sinus_relationum.qmd)
+- [Sinus relatiónirnar dømi - finna vinkul](sinus_relationirnar_domi_finna_vinkul.qmd)
+- [Sinusfellan](sinusfellan.qmd)
+- [Dømi: Sinusfellan](domi_sinusfellan.qmd)
+- [Dømi: Finn longdina á síðu við sinus relatiónini](domi_finn_longdina_sidu_sinus_relationi.qmd)
+- [Dømi: Finn vinkul í trýkanti við sinus relatiónini](domi_finn_vinkul_trykanti_sinus_relationi.qmd)
+- [Introduktión og prógv av cosinus relatiónunum](introduktion_progv_cosinus_relationum.qmd)
+- [Dømi: Finn vinkul í trýkanti við cosinus relatiónini](domi_finn_vinkul_trykanti_cosinus_relationi.qmd)
+- [Dømi: Finn síðu í trýkanti við cosinus relatiónini](domi_finn_sidu_trykanti_cosinus_relationi.qmd)
+
+
+As an example, here is a simple fraction calculation:
+$$
+\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
+$$

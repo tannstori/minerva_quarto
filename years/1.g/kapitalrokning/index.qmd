@@ -1,0 +1,27 @@
+---
+title: "Kapitalrokning"
+---
+This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.
+
+
+- [Prosent](Prosent.qmd)
+- [Prosentrokning](prosentrokning.qmd)
+- [Prosentrokning dømi](prosentrokning_domi.qmd)
+- [Kapitalframskriving rentufrymilin](kapitalframskriving_rentufrymilin.qmd)
+- [Rentufrymilin dømi](rentufrymilin_domi.qmd)
+- [Kapitalframskriving](kapitalframskriving.qmd)
+- [Kapitalframskriving dømi](kapitalframskriving_domi.qmd)
+- [Effektiv renta](effektiv_renta.qmd)
+- [Annuitetslán setningur](annuitetslán_setningur.qmd)
+- [Annuitetslán prógv](annuitetslán_prógv.qmd)
+- [Annuitetslán dømi](annuitetslán_domi.qmd)
+- [Annuitetsuppsparing setningur](annuitetsuppsparing_setningur.qmd)
+- [Annuitetsuppsparing prógv](annuitetsuppsparing_prógv.qmd)
+- [Intro til annuitet](intro_til_annuitet.qmd)
+- [Summatiónstekin v2](summationstekin_v2.qmd)
+
+
+As an example, here is a simple fraction calculation:
+$$
+\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
+$$

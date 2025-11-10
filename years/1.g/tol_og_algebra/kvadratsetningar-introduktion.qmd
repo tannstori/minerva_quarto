@@ -1,0 +1,17 @@
+---
+title: "Kvadratsetningar introduktión"
+---
+
+## Innleiðing
+
+This lesson introduces quadratic identities (kvadratsetningar).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Tri kvadratsetningar
+
+1. $(a + b)^2 = a^2 + 2ab + b^2$
+2. $(a - b)^2 = a^2 - 2ab + b^2$
+3. $(a + b)(a - b) = a^2 - b^2$

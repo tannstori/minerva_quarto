@@ -1,0 +1,21 @@
+---
+title: "Rótroknireglur"
+---
+
+## Innleiðing
+
+This lesson covers rules for roots (rótroknireglur).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Reglur
+
+$$
+\sqrt{ab} = \sqrt{a} \cdot \sqrt{b}
+$$
+
+$$
+\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}
+$$

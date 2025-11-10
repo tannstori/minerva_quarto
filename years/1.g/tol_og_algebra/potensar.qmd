@@ -1,0 +1,17 @@
+---
+title: "Potensar"
+---
+
+## Innleiðing
+
+This lesson covers powers and exponents (potensar).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+a^n = \underbrace{a \cdot a \cdot ... \cdot a}_{n \text{ ferðir}}
+$$

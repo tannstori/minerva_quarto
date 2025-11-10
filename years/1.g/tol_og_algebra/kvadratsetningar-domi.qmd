@@ -1,0 +1,23 @@
+---
+title: "Kvadratsetningar dømi"
+---
+
+## Dømi
+
+This lesson provides examples of quadratic identities.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Dømi 1
+
+$$
+(x + 3)^2 = x^2 + 6x + 9
+$$
+
+### Dømi 2
+
+$$
+(x - 5)^2 = x^2 - 10x + 25
+$$

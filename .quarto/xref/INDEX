@@ -1,0 +1,455 @@
+{
+  "about.qmd": {
+    "about.html": "c90847ca"
+  },
+  "index.qmd": {
+    "index.html": "d2b3f0e3"
+  },
+  "readme.md": {
+    "readme.html": "665dcc80"
+  },
+  "years/year7/fysik/index.qmd": {
+    "index.html": "8c8dfd6b"
+  },
+  "years/year7/fysik/lesson-01-motion.qmd": {
+    "lesson-01-motion.html": "adc28efe"
+  },
+  "years/year7/matematik/index.qmd": {
+    "index.html": "67df1706"
+  },
+  "years/year7/matematik/lesson-01-fractions.qmd": {
+    "lesson-01-fractions.html": "c4ef4013"
+  },
+  "years/year7/matematik/lesson-02-linear-equations.qmd": {
+    "lesson-02-linear-equations.html": "4a793a99"
+  },
+  "years/year8/fysik/index.qmd": {
+    "index.html": "4d372cf6"
+  },
+  "years/year8/fysik/lesson-01-electricity.qmd": {
+    "lesson-01-electricity.html": "4544b54d"
+  },
+  "years/year8/matematik/index.qmd": {
+    "index.html": "2fe988f3"
+  },
+  "years/year8/matematik/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "452a273b"
+  },
+  "years/1.g/funktionir/eksponentiellar_funktion_finn_ab.qmd": {
+    "eksponentiellar_funktion_finn_ab.html": "26ea83c4"
+  },
+  "years/1.g/funktionir/eksponentiellar_funktion_finn_ab_domi.qmd": {
+    "eksponentiellar_funktion_finn_ab_domi.html": "d3cd51c7"
+  },
+  "years/1.g/funktionir/eksponentiellar_funktion_helvt.qmd": {
+    "eksponentiellar_funktion_helvt.html": "f336d195"
+  },
+  "years/1.g/funktionir/eksponentiellar_funktion_tvi_helt.qmd": {
+    "eksponentiellar_funktion_tvi_helt.html": "b5fe931c"
+  },
+  "years/1.g/funktionir/eksponentiellar_funktion_tvi_progv.qmd": {
+    "eksponentiellar_funktion_tvi_progv.html": "11710c4b"
+  },
+  "years/1.g/funktionir/funktions_kanning.qmd": {
+    "funktions_kanning.html": "a2261e7a"
+  },
+  "years/1.g/funktionir/funktions_kanning_2.qmd": {
+    "funktions_kanning_2.html": "0c12aeba"
+  },
+  "years/1.g/funktionir/index.qmd": {
+    "index.html": "94a288d5"
+  },
+  "years/1.g/funktionir/linjurattar_funktionir_1.qmd": {
+    "linjurattar_funktionir_1.html": "2a167377"
+  },
+  "years/1.g/funktionir/linjurattar_funktionir_2.qmd": {
+    "linjurattar_funktionir_2.html": "2686b041"
+  },
+  "years/1.g/funktionir/linjurattar_funktionir_a_og_b.qmd": {
+    "linjurattar_funktionir_a_og_b.html": "2bbf81b9"
+  },
+  "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.qmd": {
+    "linjurattar_funktionir_a_og_b_progv.html": "293adbfc"
+  },
+  "years/1.g/funktionir/linjurattar_funktionir_domi.qmd": {
+    "linjurattar_funktionir_domi.html": "d30122f4"
+  },
+  "years/1.g/funktionir/logaritmur_1.qmd": {
+    "logaritmur_1.html": "fb8b3bae"
+  },
+  "years/1.g/funktionir/logaritmur_2.qmd": {
+    "logaritmur_2.html": "aee25da5"
+  },
+  "years/1.g/funktionir/logaritmur_roknireglur.qmd": {
+    "logaritmur_roknireglur.html": "c27f7233"
+  },
+  "years/1.g/funktionir/mangli_at_uploada_eksponentiellar_funktionir.qmd": {
+    "mangli_at_uploada_eksponentiellar_funktionir.html": "d8f1a980"
+  },
+  "years/1.g/funktionir/population_og_stakroynd.qmd": {
+    "population_og_stakroynd.html": "277e3175"
+  },
+  "years/1.g/funktionir/potensfunktionir_1.qmd": {
+    "potensfunktionir_1.html": "4f993959"
+  },
+  "years/1.g/funktionir/potensfunktionir_2.qmd": {
+    "potensfunktionir_2.html": "7612f513"
+  },
+  "years/1.g/funktionir/potensfunktionir_a_o_b.qmd": {
+    "potensfunktionir_a_o_b.html": "49b7d7c0"
+  },
+  "years/1.g/geometri/domi_einsvinkladir_trykantar.qmd": {
+    "domi_einsvinkladir_trykantar.html": "4114dd1b"
+  },
+  "years/1.g/geometri/domi_finn_areal_trykanti_sinus.qmd": {
+    "domi_finn_areal_trykanti_sinus.html": "e8b28580"
+  },
+  "years/1.g/geometri/domi_finn_longdina_sidu_sinus_relationi.qmd": {
+    "domi_finn_longdina_sidu_sinus_relationi.html": "1b7c454a"
+  },
+  "years/1.g/geometri/domi_finn_manglandi_sidur_vinklar.qmd": {
+    "domi_finn_manglandi_sidur_vinklar.html": "82b4446c"
+  },
+  "years/1.g/geometri/domi_finn_sidu_trykanti_cosinus_relationi.qmd": {
+    "domi_finn_sidu_trykanti_cosinus_relationi.html": "ed7dbca5"
+  },
+  "years/1.g/geometri/domi_finn_vinkul_raettvinkladum_trykanti.qmd": {
+    "domi_finn_vinkul_raettvinkladum_trykanti.html": "4ff01fa9"
+  },
+  "years/1.g/geometri/domi_finn_vinkul_sinus_formlinum.qmd": {
+    "domi_finn_vinkul_sinus_formlinum.html": "60a84864"
+  },
+  "years/1.g/geometri/domi_finn_vinkul_trykanti_cosinus_relationi.qmd": {
+    "domi_finn_vinkul_trykanti_cosinus_relationi.html": "2e7ff987"
+  },
+  "years/1.g/geometri/domi_finn_vinkul_trykanti_sinus_relationi.qmd": {
+    "domi_finn_vinkul_trykanti_sinus_relationi.html": "2c9b83e2"
+  },
+  "years/1.g/geometri/domi_pythagoras.qmd": {
+    "domi_pythagoras.html": "1df9ce8b"
+  },
+  "years/1.g/geometri/domi_pythagoras_2.qmd": {
+    "domi_pythagoras_2.html": "2e22cdce"
+  },
+  "years/1.g/geometri/domi_sinusfellan.qmd": {
+    "domi_sinusfellan.html": "13d9b039"
+  },
+  "years/1.g/geometri/domi_sinus_cosinus_vinklar_eindarsirklinum.qmd": {
+    "domi_sinus_cosinus_vinklar_eindarsirklinum.html": "fc04b1b6"
+  },
+  "years/1.g/geometri/domi_sinus_cosinus_vinklar_eindarsirklinum_2.qmd": {
+    "domi_sinus_cosinus_vinklar_eindarsirklinum_2.html": "84ab9c10"
+  },
+  "years/1.g/geometri/einsvinkladir_trykantar.qmd": {
+    "einsvinkladir_trykantar.html": "82b697e8"
+  },
+  "years/1.g/geometri/index.qmd": {
+    "index.html": "3f37f1db"
+  },
+  "years/1.g/geometri/introduktion_progv_cosinus_relationum.qmd": {
+    "introduktion_progv_cosinus_relationum.html": "d18d735b"
+  },
+  "years/1.g/geometri/introduktion_progv_sinus_relationum.qmd": {
+    "introduktion_progv_sinus_relationum.html": "d439ccbf"
+  },
+  "years/1.g/geometri/javnbeintir_og_javnsidadir_trykantar.qmd": {
+    "javnbeintir_og_javnsidadir_trykantar.html": "1f9e2424"
+  },
+  "years/1.g/geometri/progv_areal_trykanti_sinus.qmd": {
+    "progv_areal_trykanti_sinus.html": "dd30718e"
+  },
+  "years/1.g/geometri/progv_formil_areal_trykanti.qmd": {
+    "progv_formil_areal_trykanti.html": "a59783c6"
+  },
+  "years/1.g/geometri/progv_pythagoras.qmd": {
+    "progv_pythagoras.html": "6e936a4c"
+  },
+  "years/1.g/geometri/progv_sinus_cosinus_raettvinkladum_trykantum.qmd": {
+    "progv_sinus_cosinus_raettvinkladum_trykantum.html": "f2f8c881"
+  },
+  "years/1.g/geometri/progv_vinkulsamlogan_i_trykantum.qmd": {
+    "progv_vinkulsamlogan_i_trykantum.html": "345bbcc8"
+  },
+  "years/1.g/geometri/raettvinkladir_trykantar.qmd": {
+    "raettvinkladir_trykantar.html": "dd459d10"
+  },
+  "years/1.g/geometri/sinusfellan.qmd": {
+    "sinusfellan.html": "2bb226ba"
+  },
+  "years/1.g/geometri/sinus_og_cosinus_i_raettvinkladum_trykantum.qmd": {
+    "sinus_og_cosinus_i_raettvinkladum_trykantum.html": "a015f6b6"
+  },
+  "years/1.g/geometri/sinus_relationirnar_domi_finna_vinkul.qmd": {
+    "sinus_relationirnar_domi_finna_vinkul.html": "d5ddb73e"
+  },
+  "years/1.g/hagfrodi/bolkadar_observationir.qmd": {
+    "bolkadar_observationir.html": "206a8d66"
+  },
+  "years/1.g/hagfrodi/fjordingsmork_median_typutal_ol.qmd": {
+    "fjordingsmork_median_typutal_ol.html": "0cad90d9"
+  },
+  "years/1.g/hagfrodi/fjordingsmork_og_typutalid.qmd": {
+    "fjordingsmork_og_typutalid.html": "f86cbdad"
+  },
+  "years/1.g/hagfrodi/fragreidandi_hagtol_obolkad.qmd": {
+    "fragreidandi_hagtol_obolkad.html": "795b3d54"
+  },
+  "years/1.g/hagfrodi/index.qmd": {
+    "index.html": "85b805e1"
+  },
+  "years/1.g/hagfrodi/midalvirdid_2.qmd": {
+    "midalvirdid_2.html": "b5ba1cd2"
+  },
+  "years/1.g/hagfrodi/midalvirdid_domi.qmd": {
+    "midalvirdid_domi.html": "a1c9edc9"
+  },
+  "years/1.g/hagfrodi/midalvirdid_kanska_slettast.qmd": {
+    "midalvirdid_kanska_slettast.html": "0138e902"
+  },
+  "years/1.g/hagfrodi/midalvirdid_og_spjading.qmd": {
+    "midalvirdid_og_spjading.html": "18a8eb44"
+  },
+  "years/1.g/hagfrodi/obolkadar_observationir.qmd": {
+    "obolkadar_observationir.html": "1b08b69d"
+  },
+  "years/1.g/hagfrodi/pinnamynd.qmd": {
+    "pinnamynd.html": "2bcb4968"
+  },
+  "years/1.g/hagfrodi/population_og_stakroynd.qmd": {
+    "population_og_stakroynd.html": "fe13983d"
+  },
+  "years/1.g/hagfrodi/stabbamynd_v2.qmd": {
+    "stabbamynd_v2.html": "88d774b1"
+  },
+  "years/1.g/hagfrodi/summationstekin_v2.qmd": {
+    "summationstekin_v2.html": "9fe77ea7"
+  },
+  "years/1.g/hagfrodi/s_ras.qmd": {
+    "s_ras.html": "971303c3"
+  },
+  "years/1.g/hagfrodi/trappumynd.qmd": {
+    "trappumynd.html": "1c265248"
+  },
+  "years/1.g/kapitalrokning/annuitetslán_domi.qmd": {
+    "annuitetslán_domi.html": "11e8ba32"
+  },
+  "years/1.g/kapitalrokning/annuitetslán_prógv.qmd": {
+    "annuitetslán_prógv.html": "d5f55b2e"
+  },
+  "years/1.g/kapitalrokning/annuitetslán_setningur.qmd": {
+    "annuitetslán_setningur.html": "09c08d87"
+  },
+  "years/1.g/kapitalrokning/annuitetsuppsparing_prógv.qmd": {
+    "annuitetsuppsparing_prógv.html": "d656f6e2"
+  },
+  "years/1.g/kapitalrokning/annuitetsuppsparing_setningur.qmd": {
+    "annuitetsuppsparing_setningur.html": "124b1164"
+  },
+  "years/1.g/kapitalrokning/effektiv_renta.qmd": {
+    "effektiv_renta.html": "667fe91f"
+  },
+  "years/1.g/kapitalrokning/index.qmd": {
+    "index.html": "ad96bf4d"
+  },
+  "years/1.g/kapitalrokning/intro_til_annuitet.qmd": {
+    "intro_til_annuitet.html": "bf02f19d"
+  },
+  "years/1.g/kapitalrokning/kapitalframskriving.qmd": {
+    "kapitalframskriving.html": "fa5084e0"
+  },
+  "years/1.g/kapitalrokning/kapitalframskriving_domi.qmd": {
+    "kapitalframskriving_domi.html": "9c1a45ed"
+  },
+  "years/1.g/kapitalrokning/kapitalframskriving_rentufrymilin.qmd": {
+    "kapitalframskriving_rentufrymilin.html": "7e945ed2"
+  },
+  "years/1.g/kapitalrokning/Prosent.qmd": {
+    "Prosent.html": "8e1c7507"
+  },
+  "years/1.g/kapitalrokning/prosentrokning.qmd": {
+    "prosentrokning.html": "b609dbb2"
+  },
+  "years/1.g/kapitalrokning/prosentrokning_domi.qmd": {
+    "prosentrokning_domi.html": "1813bd5d"
+  },
+  "years/1.g/kapitalrokning/rentufrymilin_domi.qmd": {
+    "rentufrymilin_domi.html": "306e7119"
+  },
+  "years/1.g/kapitalrokning/summationstekin_v2.qmd": {
+    "summationstekin_v2.html": "1944d349"
+  },
+  "years/1.g/likindarokning/hendingar.qmd": {
+    "hendingar.html": "de351416"
+  },
+  "years/1.g/likindarokning/hendingar_domi.qmd": {
+    "hendingar_domi.html": "20dced6a"
+  },
+  "years/1.g/likindarokning/index.qmd": {
+    "index.html": "e1764060"
+  },
+  "years/1.g/likindarokning/likindaokid.qmd": {
+    "likindaokid.html": "d21c31c0"
+  },
+  "years/1.g/likindarokning/likindarokning.qmd": {
+    "likindarokning.html": "f91276bd"
+  },
+  "years/1.g/likindarokning/likindarokning_2.qmd": {
+    "likindarokning_2.html": "102f7788"
+  },
+  "years/1.g/likindarokning/oheftar_hendingar.qmd": {
+    "oheftar_hendingar.html": "a45f03a4"
+  },
+  "years/1.g/likindarokning/treytad_sannlikindi.qmd": {
+    "treytad_sannlikindi.html": "56110043"
+  },
+  "years/1.g/tol_og_algebra/brot-01.qmd": {
+    "brot-01.html": "427c2e2d"
+  },
+  "years/1.g/tol_og_algebra/brot-02.qmd": {
+    "brot-02.html": "a13ede3c"
+  },
+  "years/1.g/tol_og_algebra/brot-falda_og_byta.qmd": {
+    "brot-falda_og_byta.html": "4da81122"
+  },
+  "years/1.g/tol_og_algebra/brot-stytta_og_leingja-02.qmd": {
+    "brot-stytta_og_leingja-02.html": "e4b81ee9"
+  },
+  "years/1.g/tol_og_algebra/brot-stytta_og_leingja-domi.qmd": {
+    "brot-stytta_og_leingja-domi.html": "2e50a039"
+  },
+  "years/1.g/tol_og_algebra/brot-stytta_og_leingja.qmd": {
+    "brot-stytta_og_leingja.html": "463f8528"
+  },
+  "years/1.g/tol_og_algebra/eginleikar_hja_tolum-domi.qmd": {
+    "eginleikar_hja_tolum-domi.html": "269f0749"
+  },
+  "years/1.g/tol_og_algebra/eginleikar_hja_tolum.qmd": {
+    "eginleikar_hja_tolum.html": "03a4161a"
+  },
+  "years/1.g/tol_og_algebra/index.qmd": {
+    "index.html": "8e302696"
+  },
+  "years/1.g/tol_og_algebra/kvadratsetningar-domi.qmd": {
+    "kvadratsetningar-domi.html": "2b9348fc"
+  },
+  "years/1.g/tol_og_algebra/kvadratsetningar-introduktion.qmd": {
+    "kvadratsetningar-introduktion.html": "b138b3e3"
+  },
+  "years/1.g/tol_og_algebra/loysa_tvaer_likningar-grafiskt.qmd": {
+    "loysa_tvaer_likningar-grafiskt.html": "a140fa35"
+  },
+  "years/1.g/tol_og_algebra/loysa_tvaer_likningar-koefficienthatturin.qmd": {
+    "loysa_tvaer_likningar-koefficienthatturin.html": "49284a57"
+  },
+  "years/1.g/tol_og_algebra/loysa_tvaer_likningar-substitution.qmd": {
+    "loysa_tvaer_likningar-substitution.html": "e0e64eca"
+  },
+  "years/1.g/tol_og_algebra/potensar.qmd": {
+    "potensar.html": "f9939de1"
+  },
+  "years/1.g/tol_og_algebra/potensroknireglur-02.qmd": {
+    "potensroknireglur-02.html": "a67e4850"
+  },
+  "years/1.g/tol_og_algebra/potensroknireglur-03.qmd": {
+    "potensroknireglur-03.html": "9a55f708"
+  },
+  "years/1.g/tol_og_algebra/potensroknireglur.qmd": {
+    "potensroknireglur.html": "b2f3f618"
+  },
+  "years/1.g/tol_og_algebra/primtol.qmd": {
+    "primtol.html": "9bfc42e2"
+  },
+  "years/1.g/tol_og_algebra/progv-1kvadratsetningur-algebraiskt.qmd": {
+    "progv-1kvadratsetningur-algebraiskt.html": "15bf242e"
+  },
+  "years/1.g/tol_og_algebra/progv-1kvadratsetningur-geometriskt.qmd": {
+    "progv-1kvadratsetningur-geometriskt.html": "7bd2213c"
+  },
+  "years/1.g/tol_og_algebra/progv-2kvadratsetningur-algebraiskt.qmd": {
+    "progv-2kvadratsetningur-algebraiskt.html": "d9493f38"
+  },
+  "years/1.g/tol_og_algebra/progv-2kvadratsetningur-geometriskt.qmd": {
+    "progv-2kvadratsetningur-geometriskt.html": "e30c8e1d"
+  },
+  "years/1.g/tol_og_algebra/progv-3kvadratsetningar-geometriskt.qmd": {
+    "progv-3kvadratsetningar-geometriskt.html": "655a061c"
+  },
+  "years/1.g/tol_og_algebra/progv-3kvadratsetningur-algebraiskt.qmd": {
+    "progv-3kvadratsetningur-algebraiskt.html": "c8ceba39"
+  },
+  "years/1.g/tol_og_algebra/rotroknireglur-02.qmd": {
+    "rotroknireglur-02.html": "324fc0ff"
+  },
+  "years/1.g/tol_og_algebra/rotroknireglur.qmd": {
+    "rotroknireglur.html": "74a0f71f"
+  },
+  "years/1.g/tol_og_algebra/rotur_og_rotroknireglur.qmd": {
+    "rotur_og_rotroknireglur.html": "d04582f4"
+  },
+  "years/1.g/tol_og_algebra/stigskipan_av_roknihattum.qmd": {
+    "stigskipan_av_roknihattum.html": "bcb325fd"
+  },
+  "years/1.g/tol_og_algebra/tol-makad_og_stok.qmd": {
+    "tol-makad_og_stok.html": "94455c56"
+  },
+  "years/1.g/tol_og_algebra/tol-naturlig_og_heiltol.qmd": {
+    "tol-naturlig_og_heiltol.html": "bdc3ff9a"
+  },
+  "years/1.g/tol_og_algebra/tol-rationel_og_irrationel.qmd": {
+    "tol-rationel_og_irrationel.html": "74f71594"
+  },
+  "years/2.g/2.gradspoly/index.qmd": {
+    "index.html": "662e55af"
+  },
+  "years/2.g/2.gradspoly/lesson-01-electricity.qmd": {
+    "lesson-01-electricity.html": "ba0f87db"
+  },
+  "years/2.g/differentialrokning/index.qmd": {
+    "index.html": "56cd9cb3"
+  },
+  "years/2.g/differentialrokning/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "571f3c72"
+  },
+  "years/2.g/funktionir/index.qmd": {
+    "index.html": "751dcd6b"
+  },
+  "years/2.g/funktionir/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "5c490bb5"
+  },
+  "years/2.g/hagfrodi/index.qmd": {
+    "index.html": "84ffd22b"
+  },
+  "years/2.g/hagfrodi/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "1e3ff0f9"
+  },
+  "years/2.g/plangeometri/index.qmd": {
+    "index.html": "e15d345a"
+  },
+  "years/2.g/plangeometri/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "9cf60a93"
+  },
+  "years/2.g/regression/index.qmd": {
+    "index.html": "068e793f"
+  },
+  "years/2.g/regression/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "4b4fb244"
+  },
+  "years/2.g/sannlíkindarokning_komb/index.qmd": {
+    "index.html": "3619a513"
+  },
+  "years/2.g/sannlíkindarokning_komb/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "00e9b77a"
+  },
+  "years/2.g/trigonometri/index.qmd": {
+    "index.html": "1f10b604"
+  },
+  "years/2.g/trigonometri/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "e4e49ae4"
+  },
+  "years/2.g/vektorar_2d/index.qmd": {
+    "index.html": "080e6ce2"
+  },
+  "years/2.g/vektorar_2d/lesson-01-functions.qmd": {
+    "lesson-01-functions.html": "ecc87632"
+  }
+}

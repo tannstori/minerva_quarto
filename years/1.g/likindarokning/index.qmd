@@ -1,0 +1,18 @@
+---
+title: "Líkindarokning"
+---
+
+
+- [Líkindarokning](likindarokning.qmd)
+- [Líkindarokning 2](likindarokning_2.qmd)
+- [Líkindaøkið](likindaokid.qmd)
+- [Hendingar](hendingar.qmd)
+- [Hendingar dømi](hendingar_domi.qmd)
+- [Óheftar hendingar](oheftar_hendingar.qmd)
+- [Treytað sannlíkindi](treytad_sannlikindi.qmd)
+
+
+As an example, here is a simple fraction calculation:
+$$
+\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
+$$

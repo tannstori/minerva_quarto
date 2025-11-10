@@ -1,0 +1,34 @@
+---
+title: "Prosentrokning"
+---
+
+## Innleiðing
+
+This lesson covers percentage calculations (prosentrokning).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Tri slag av uppgávum
+
+1. **Finna prosenttali:** Hvussu nógv prosent er A av B?
+2. **Finna prosentpartin:** Hvat er X% av Y?
+3. **Finna heildin:** A er X% av hvat?
+
+### Formlar
+
+**Prosenttali:**
+$$
+p = \frac{A}{B} \times 100\%
+$$
+
+**Prosentpartur:**
+$$
+\text{Partur} = \frac{p}{100} \times \text{Heild}
+$$
+
+**Heild:**
+$$
+\text{Heild} = \frac{\text{Partur}}{p} \times 100
+$$

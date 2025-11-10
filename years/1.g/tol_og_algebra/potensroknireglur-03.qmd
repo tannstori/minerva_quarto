@@ -1,0 +1,21 @@
+---
+title: "Potensroknireglur 3"
+---
+
+## Innleiðing
+
+This lesson covers rules for exponents - part 3.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Serstøk føri
+
+$$
+a^0 = 1
+$$
+
+$$
+a^{-n} = \frac{1}{a^n}
+$$

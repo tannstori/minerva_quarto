@@ -1,0 +1,17 @@
+---
+title: "Brot - stytta og leingja"
+---
+
+## Innleiðing
+
+This lesson covers simplifying and extending fractions (stytta og leingja).
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+\frac{2}{4} = \frac{1}{2}
+$$

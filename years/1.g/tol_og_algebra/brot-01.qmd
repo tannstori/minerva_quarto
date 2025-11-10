@@ -1,0 +1,17 @@
+---
+title: "Brot 1"
+---
+
+## Innleiðing
+
+This lesson covers fractions (brot) - part 1.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Example
+
+$$
+\frac{a}{b}
+$$

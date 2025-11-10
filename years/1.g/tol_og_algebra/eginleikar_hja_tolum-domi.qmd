@@ -1,0 +1,23 @@
+---
+title: "Eginleikar hjá tølum - dømi"
+---
+
+## Dømi
+
+This lesson provides examples of properties of numbers.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+### Dømi 1
+
+$$
+a + b = b + a
+$$
+
+### Dømi 2
+
+$$
+(a + b) + c = a + (b + c)
+$$

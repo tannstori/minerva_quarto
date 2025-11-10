@@ -1,0 +1,20 @@
+---
+title: "Tøl - náturlig og heiltøl"
+---
+
+<!-- TODO: Replace with real lesson video -->
+
+
+A kinematics example: distance traveled under constant acceleration is
+$$
+s = v_0 t + \frac{1}{2} a t^2.
+$$
+
+- Understand concepts of initial velocity \(v_0\) and acceleration \(a\)
+- Calculate distance \(s\) given \(v_0\), \(a\), and time \(t\)
+- Analyze motion scenarios (constant speed vs. accelerating)
+- Solve for time or acceleration when distance is given
+
+
+## Filmur 
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}

@@ -1,0 +1,15 @@
+---
+title: "Prógv: 3.kvadratsetningar geometriskt"
+---
+
+## Prógv
+
+This lesson proves the third quadratic identity geometrically.
+
+## Dummy Content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Geometriskt prógv
+
+Vísir eitt rektangul við síðum $a$ og $b$ og minkað eitt kvadrat.
