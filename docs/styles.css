@@ -140,13 +140,17 @@ body {
 
 /* Main content with sidebar offset - only on larger screens */
 @media (min-width: 992px) {
+  body.nav-sidebar .quarto-container {
+    padding-left: 320px !important;
+  }
+  
   body.nav-sidebar #quarto-content {
-    margin-left: 340px !important;
+    margin-left: 2rem !important;
     margin-right: 2rem !important;
   }
   
   body.nav-sidebar main {
-    margin-left: 320px;
+    margin-left: 0;
   }
   
   .sidebar {
@@ -265,9 +269,11 @@ body:not(.nav-sidebar) #quarto-content {
   margin-right: auto;
 }
 
-/* Pages with sidebar - let content expand */
+/* Pages with sidebar - content fills available space */
 body.nav-sidebar #quarto-content {
-  max-width: none;
+  max-width: 1400px;
+  margin-left: 2rem !important;
+  margin-right: auto !important;
 }
 
 .quarto-title-block {

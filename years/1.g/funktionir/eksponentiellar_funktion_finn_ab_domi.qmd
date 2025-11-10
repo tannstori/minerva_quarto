@@ -2,14 +2,6 @@
 title: "Eksponentiellar funktión finn ab dømi"
 ---
 
-## Dømi
-
-Henda undirvísing gevur dmi um evnið.
-
-## Dummy Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 ### Formul
 
 $$
@@ -18,14 +10,17 @@ $$
 
 ### Dømi 1: Tvey punkt
 
-Givið: $f(0) = 5$ og $f(2) = 20$
+Givið: 
+$$
+f(0) = 5 \text{   og   } f(2) = 20
+$$
 
-**Finna a:**
+**Finn a:**
 $$
 f(0) = a \cdot b^0 = a = 5
 $$
 
-**Finna b:**
+**Finn b:**
 $$
 f(2) = 5 \cdot b^2 = 20
 $$
