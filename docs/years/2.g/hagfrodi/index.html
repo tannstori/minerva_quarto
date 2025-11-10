@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hagfrøði – Minerva</title>
+<title>index – Minerva</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -123,21 +123,7 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="../../../index.html" aria-current="page"> 
-<span class="menu-text">Minerva</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">← Aftur</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-c"> 
-<span class="menu-text">Støddfrøði C</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-b"> 
-<span class="menu-text">Støddfrøði B</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -417,19 +403,23 @@ f(x) = 2x + 1.
 
 document.addEventListener('DOMContentLoaded', function() {
 
-  const isHomepage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+  const path = window.location.pathname;
+
+  const isMainHomepage = path.endsWith('index.html') && !path.includes('/years/');
+
+  const is1gHomepage = path.includes('/1.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
+
+  const is2gHomepage = path.includes('/2.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
 
   const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
-
-  const levelButtons = document.querySelectorAll('.navbar-nav .nav-link[href*="#stoddfrodi"]');
 
   const navbarBrand = document.querySelector('.navbar-brand');
 
   
 
-  if (isHomepage) {
+  if (isMainHomepage) {
 
-    // On homepage: hide back button, show level buttons
+    // Main homepage: hide back button
 
     if (backButton && backButton.textContent.includes('Aftur')) {
 
@@ -437,31 +427,37 @@ document.addEventListener('DOMContentLoaded', function() {
 
     }
 
-  } else {
+  } else if (is1gHomepage) {
 
-    // On subject pages: hide level buttons, show back button
+    // 1.g homepage: show "Støddfrøði C", back goes to main
 
-    levelButtons.forEach(btn => btn.style.display = 'none');
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-    
+    if (backButton) backButton.href = '../../index.html';
 
-    // Update navbar title based on current page
+  } else if (is2gHomepage) {
 
-    if (navbarBrand) {
+    // 2.g homepage: show "Støddfrøði B", back goes to main
 
-      const path = window.location.pathname;
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
 
-      if (path.includes('1.g')) {
+    if (backButton) backButton.href = '../../index.html';
 
-        navbarBrand.textContent = 'Støddfrøði C';
+  } else if (path.includes('/1.g/')) {
 
-      } else if (path.includes('2.g')) {
+    // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
 
-        navbarBrand.textContent = 'Støddfrøði B';
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-      }
+    if (backButton) backButton.href = '../index.html';
 
-    }
+  } else if (path.includes('/2.g/')) {
+
+    // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
+
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
+
+    if (backButton) backButton.href = '../index.html';
 
   }
 
