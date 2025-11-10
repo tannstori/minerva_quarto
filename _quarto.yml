@@ -20,7 +20,7 @@ website:
   sidebar:
     - id: sidebar-1g
       title: "1.g"
-      style: "docked"
+      style: "floating"
       collapse-level: 1
       contents:
         - section: "Tøl og Algebra"
@@ -163,7 +163,7 @@ website:
             - years/1.g/kapitalrokning/summationstekin_v2.qmd
     - id: sidebar-2g
       title: "2.g"
-      style: "docked"
+      style: "floating"
       collapse-level: 1
       contents:
         - section: "2. Gradspoly"

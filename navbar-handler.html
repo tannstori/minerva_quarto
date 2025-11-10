@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   } else if (is1gHomepage) {
     // 1.g homepage: show "Støddfrøði C", back goes to main
-    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
+    if (navbarBrand) navbarBrand.textContent = '';
     if (backButton) backButton.href = '../../index.html';
   } else if (is2gHomepage) {
     // 2.g homepage: show "Støddfrøði B", back goes to main
@@ -22,11 +22,11 @@ document.addEventListener('DOMContentLoaded', function() {
     if (backButton) backButton.href = '../../index.html';
   } else if (path.includes('/1.g/')) {
     // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
-    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
+    if (navbarBrand) navbarBrand.textContent = '';
     if (backButton) backButton.href = '../index.html';
   } else if (path.includes('/2.g/')) {
     // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
-    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
+    if (navbarBrand) navbarBrand.textContent = '';
     if (backButton) backButton.href = '../index.html';
   }
 });

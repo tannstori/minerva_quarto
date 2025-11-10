@@ -5,9 +5,9 @@ sidebar: sidebar-1g
 
 Vælkomin til Støddfrøði C! 
 
-Vel eitt evnið niðanfyri:
+Vel eitt evni niðanfyri:
 
-## evnið
+## Evnisøki
 
 - [**Tøl og Algebra**](tol_og_algebra/index.qmd) – Tøl og algebra fevnir um talfatan og at loysa líkningar.
 - [**Funktionir**](funktionir/index.qmd) – Funktiónir lýsa eintýdda sambandið millum óhefta og hefta variabulin.
