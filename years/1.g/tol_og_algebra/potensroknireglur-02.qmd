@@ -4,7 +4,7 @@ title: "Potensroknireglur 2"
 
 ## Innleiðing
 
-Henda undirv�sing fevnir um evni�.
+Henda undirvísing fevnir um evnið.
 
 ## Dummy Content
 
@@ -22,3 +22,4 @@ $$
 
 ## Filmur 
 {{< video https://youtu.be/Mx7gINff2Wo?si=7DpMhME82kktHQH3 >}}
+

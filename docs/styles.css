@@ -64,6 +64,7 @@ h3 {
   background: linear-gradient(135deg, var(--minerva-primary) 0%, #1e4466 100%);
   box-shadow: 0 2px 8px var(--minerva-shadow-lg);
   padding: 0.8rem 1rem;
+  min-height: 60px;
 }
 
 body {
@@ -71,10 +72,15 @@ body {
 }
 
 .navbar-brand {
-  font-size: 1.4em;
+  font-size: 1.3em;
   font-weight: 700;
   color: white !important;
   letter-spacing: 0.5px;
+  margin-right: 2rem;
+}
+
+.navbar-title {
+  font-size: 1.3em !important;
 }
 
 .navbar-nav .nav-link {
@@ -122,6 +128,24 @@ body {
   border-right: 1px solid var(--minerva-border);
   box-shadow: 2px 0 8px var(--minerva-shadow);
   padding-top: 1rem !important;
+  width: 320px !important;
+  max-width: 320px !important;
+  position: fixed !important;
+  top: 60px;
+  left: 0;
+  bottom: 0;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+#quarto-sidebar {
+  width: 320px !important;
+}
+
+/* Main content with sidebar offset */
+body.nav-sidebar #quarto-content,
+body.nav-sidebar main {
+  margin-left: 320px;
 }
 
 .sidebar-title {
@@ -191,18 +215,32 @@ body {
   padding: 2.5rem;
   border-radius: 10px;
   box-shadow: 0 2px 12px var(--minerva-shadow);
-  max-width: 1200px;
+  max-width: 1300px;
   margin: 2rem auto;
-  margin-top: 2rem;
-}
-
-.quarto-title-block {
-  padding-top: 1rem;
   margin-top: 1.5rem;
 }
 
-#title-block-header {
+/* Pages without sidebar (homepage) */
+body:not(.nav-sidebar) #quarto-content {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quarto-title-block {
+  padding-top: 0.5rem;
   margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+#title-block-header {
+  margin-top: 0;
+  padding-top: 0.5rem;
+}
+
+/* Better title styling */
+#title-block-header h1.title {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
 }
 
 .quarto-container {
@@ -210,7 +248,7 @@ body {
 }
 
 #quarto-margin-sidebar {
-  max-width: 280px;
+  max-width: 320px;
 }
 
 /* ========================================
@@ -455,6 +493,60 @@ a[href="README.html"] {
    Homepage Cards - Modern Layout
    ======================================== */
 
+.grid {
+  display: grid;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.g-col-12 {
+  grid-column: span 12;
+}
+
+.g-col-md-6 {
+  grid-column: span 6;
+}
+
+@media (max-width: 768px) {
+  .g-col-md-6 {
+    grid-column: span 12;
+  }
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--minerva-primary), #1e4466);
+  color: white !important;
+  border: none;
+}
+
+.btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(44, 95, 141, 0.3);
+}
+
+.btn-lg {
+  padding: 1.2rem 2.5rem;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.w-100 {
+  width: 100%;
+  display: block;
+}
+
 main h3 + h4 {
   margin-top: 2rem;
   color: var(--minerva-text);
@@ -472,31 +564,255 @@ main p strong a {
 }
 
 /* ========================================
+   Lesson Index Cards - Beautiful Layout
+   ======================================== */
+
+.lesson-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.lesson-card {
+  background: linear-gradient(to bottom, #ffffff 0%, #f8f9fa 100%);
+  border: 2px solid var(--minerva-border);
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.lesson-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(135deg, var(--minerva-primary), var(--minerva-accent));
+}
+
+.lesson-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+  border-color: var(--minerva-primary);
+}
+
+.lesson-card h3 {
+  color: var(--minerva-primary);
+  font-size: 1.25em;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 2px solid var(--minerva-hover);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.lesson-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lesson-card li {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--minerva-hover);
+  transition: all 0.2s ease;
+}
+
+.lesson-card li:last-child {
+  border-bottom: none;
+}
+
+.lesson-card li:hover {
+  padding-left: 0.5rem;
+  background-color: var(--minerva-hover);
+}
+
+.lesson-card a {
+  display: block;
+  color: var(--minerva-text);
+  font-size: 0.95em;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.lesson-card a:hover {
+  color: var(--minerva-primary);
+  font-weight: 500;
+}
+
+.lesson-card a::before {
+  content: "▸ ";
+  color: var(--minerva-accent);
+  margin-right: 0.5rem;
+  transition: margin-right 0.2s ease;
+}
+
+.lesson-card li:hover a::before {
+  margin-right: 0.8rem;
+}
+
+/* ========================================
    Responsive Design - Mobile Friendly
    ======================================== */
 
-@media (max-width: 768px) {
+/* ========================================
+   Responsive Design - Mobile Friendly
+   ======================================== */
+
+@media (max-width: 991px) {
+  /* Remove fixed sidebar on tablets and mobile */
+  .sidebar {
+    position: relative !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    border-right: none;
+    border-bottom: 2px solid var(--minerva-border);
+    top: auto;
+    left: auto;
+    bottom: auto;
+  }
+  
+  /* Remove margin offset for content */
+  body.nav-sidebar #quarto-content,
+  body.nav-sidebar main {
+    margin-left: 0 !important;
+  }
+  
   #quarto-content {
     padding: 1.5rem;
-    margin: 1rem;
+    margin: 1rem !important;
+  }
+  
+  .lesson-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .lesson-card {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  #quarto-content {
+    padding: 1rem;
+    margin: 0.5rem !important;
   }
   
   h1 {
-    font-size: 1.8em;
+    font-size: 1.6em;
   }
   
   h2 {
-    font-size: 1.5em;
+    font-size: 1.3em;
+  }
+  
+  h3 {
+    font-size: 1.1em;
+  }
+  
+  .navbar {
+    padding: 0.5rem;
   }
   
   .navbar-brand {
-    font-size: 1.2em;
+    font-size: 1.1em;
   }
   
   .navbar-nav .nav-link {
-    font-size: 1em;
     padding: 0.5rem 1rem !important;
+    font-size: 1em;
   }
+  
+  .katex-display {
+    padding: 0.8rem;
+    margin: 1rem 0;
+  }
+  
+  table {
+    font-size: 0.9em;
+  }
+  
+  th, td {
+    padding: 0.6rem 0.8rem;
+  }
+  
+  .btn-lg {
+    padding: 1rem 2rem;
+    font-size: 1.1em;
+  }
+  
+  .grid {
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  body {
+    font-size: 14px;
+  }
+  
+  #quarto-content {
+    padding: 0.75rem;
+    margin: 0.25rem !important;
+    border-radius: 6px;
+  }
+  
+  h1 {
+    font-size: 1.4em;
+  }
+  
+  h2 {
+    font-size: 1.2em;
+  }
+  
+  h3 {
+    font-size: 1.05em;
+  }
+  
+  .navbar-brand {
+    font-size: 1em;
+  }
+  
+  .lesson-card {
+    padding: 1rem;
+  }
+  
+  .lesson-card h3 {
+    font-size: 1.1em;
+  }
+  
+  .btn {
+    padding: 0.6rem 1.5rem;
+    font-size: 0.95em;
+  }
+  
+  .btn-lg {
+    padding: 0.9rem 1.8rem;
+    font-size: 1em;
+  }
+}
+
+/* Ensure content doesn't overflow on small screens */
+img, video, iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Fix horizontal scroll issues */
+body {
+  overflow-x: hidden;
+}
+
+#quarto-content {
+  overflow-x: auto;
 }
 
 /* ========================================

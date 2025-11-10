@@ -4,7 +4,7 @@ title: "Prógv: Areal í trýkanti við sinus"
 
 ## Prógv
 
-Henda undirv�sing pr�gvar evni�.
+Henda undirvísing prgvar evnið.
 
 ## Dummy Content
 

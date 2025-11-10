@@ -4,7 +4,7 @@ title: "Dømi: Pythagoras 2"
 
 ## Dømi
 
-Henda undirv�sing gevur fleiri d�mi um evni�.
+Henda undirvísing gevur fleiri dmi um evnið.
 
 ## Dummy Content
 
@@ -82,3 +82,4 @@ Ja! ✓
 
 ## Filmur 
 {{< video https://youtu.be/XsaKr8WPZLU?si=GNWYQ5495adxxrxJ >}}
+

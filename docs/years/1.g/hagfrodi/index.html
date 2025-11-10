@@ -123,21 +123,7 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="../../../index.html" aria-current="page"> 
-<span class="menu-text">Minerva</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">← Aftur</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-c"> 
-<span class="menu-text">Støddfrøði C</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-b"> 
-<span class="menu-text">Støddfrøði B</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -178,7 +164,7 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../years/1.g/tol_og_algebra/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Innihaldsyvirlit</span></a>
+ <span class="menu-text">Tøl og Algebra</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -980,24 +966,43 @@ window.Quarto = {
 </header>
 
 
-<p>This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.</p>
+<div class="lesson-grid">
+<section id="grundleggjandi-hugtøk" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="grundleggjandi-hugtøk">📊 Grundleggjandi Hugtøk</h3>
 <ul>
 <li><a href="../../../years/1.g/hagfrodi/population_og_stakroynd.html">Populatión og stakroynd</a></li>
-<li><a href="../../../years/1.g/hagfrodi/pinnamynd.html">Pinnamynd</a></li>
 <li><a href="../../../years/1.g/hagfrodi/obolkadar_observationir.html">Óbólkaðar observatiónir</a></li>
+<li><a href="../../../years/1.g/hagfrodi/bolkadar_observationir.html">Bólkaðar observatiónir</a></li>
+</ul>
+</section>
+<section id="myndir-og-framsetingar" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="myndir-og-framsetingar">📈 Myndir og Framsetingar</h3>
+<ul>
+<li><a href="../../../years/1.g/hagfrodi/pinnamynd.html">Pinnamynd</a></li>
+<li><a href="../../../years/1.g/hagfrodi/stabbamynd_v2.html">Stabbamynd v2</a></li>
+<li><a href="../../../years/1.g/hagfrodi/trappumynd.html">Trappumynd</a></li>
+</ul>
+</section>
+<section id="miðalvirði-og-spjaðing" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="miðalvirði-og-spjaðing">🎯 Miðalvirði og Spjaðing</h3>
+<ul>
 <li><a href="../../../years/1.g/hagfrodi/midalvirdid_2.html">Miðalvirðið 2</a></li>
 <li><a href="../../../years/1.g/hagfrodi/midalvirdid_og_spjading.html">Miðalvirðið og spjaðing</a></li>
 <li><a href="../../../years/1.g/hagfrodi/midalvirdid_domi.html">Miðalvirðið dømi</a></li>
-<li><a href="../../../years/1.g/hagfrodi/fjordingsmork_og_typutalid.html">Fjórðingsmørk og typutalið</a></li>
 <li><a href="../../../years/1.g/hagfrodi/midalvirdid_kanska_slettast.html">Miðalvirðið - kanska slettast</a></li>
-<li><a href="../../../years/1.g/hagfrodi/fragreidandi_hagtol_obolkad.html">Frágreiðandi hagtøl óbólkað</a></li>
+</ul>
+</section>
+<section id="frágreiðandi-hagtøl" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="frágreiðandi-hagtøl">📉 Frágreiðandi Hagtøl</h3>
+<ul>
+<li><a href="../../../years/1.g/hagfrodi/fjordingsmork_og_typutalid.html">Fjórðingsmørk og typutalið</a></li>
 <li><a href="../../../years/1.g/hagfrodi/fjordingsmork_median_typutal_ol.html">Fjórðingsmørk median typutal ol</a></li>
-<li><a href="../../../years/1.g/hagfrodi/bolkadar_observationir.html">Bólkaðar observatiónir</a></li>
-<li><a href="../../../years/1.g/hagfrodi/trappumynd.html">Trappumynd</a></li>
+<li><a href="../../../years/1.g/hagfrodi/fragreidandi_hagtol_obolkad.html">Frágreiðandi hagtøl óbólkað</a></li>
 <li><a href="../../../years/1.g/hagfrodi/summationstekin_v2.html">Summatiónstekin v2</a></li>
-<li><a href="../../../years/1.g/hagfrodi/stabbamynd_v2.html">Stabbamynd v2</a></li>
 <li><a href="../../../years/1.g/hagfrodi/s_ras.html">S rás</a></li>
 </ul>
+</section>
+</div>
 
 
 
@@ -1007,19 +1012,23 @@ window.Quarto = {
 
 document.addEventListener('DOMContentLoaded', function() {
 
-  const isHomepage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+  const path = window.location.pathname;
+
+  const isMainHomepage = path.endsWith('index.html') && !path.includes('/years/');
+
+  const is1gHomepage = path.includes('/1.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
+
+  const is2gHomepage = path.includes('/2.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
 
   const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
-
-  const levelButtons = document.querySelectorAll('.navbar-nav .nav-link[href*="#stoddfrodi"]');
 
   const navbarBrand = document.querySelector('.navbar-brand');
 
   
 
-  if (isHomepage) {
+  if (isMainHomepage) {
 
-    // On homepage: hide back button, show level buttons
+    // Main homepage: hide back button
 
     if (backButton && backButton.textContent.includes('Aftur')) {
 
@@ -1027,31 +1036,37 @@ document.addEventListener('DOMContentLoaded', function() {
 
     }
 
-  } else {
+  } else if (is1gHomepage) {
 
-    // On subject pages: hide level buttons, show back button
+    // 1.g homepage: show "Støddfrøði C", back goes to main
 
-    levelButtons.forEach(btn => btn.style.display = 'none');
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-    
+    if (backButton) backButton.href = '../../index.html';
 
-    // Update navbar title based on current page
+  } else if (is2gHomepage) {
 
-    if (navbarBrand) {
+    // 2.g homepage: show "Støddfrøði B", back goes to main
 
-      const path = window.location.pathname;
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
 
-      if (path.includes('1.g')) {
+    if (backButton) backButton.href = '../../index.html';
 
-        navbarBrand.textContent = 'Støddfrøði C';
+  } else if (path.includes('/1.g/')) {
 
-      } else if (path.includes('2.g')) {
+    // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
 
-        navbarBrand.textContent = 'Støddfrøði B';
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-      }
+    if (backButton) backButton.href = '../index.html';
 
-    }
+  } else if (path.includes('/2.g/')) {
+
+    // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
+
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
+
+    if (backButton) backButton.href = '../index.html';
 
   }
 

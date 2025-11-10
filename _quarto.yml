@@ -15,15 +15,8 @@ website:
   search: true
   navbar:
     left:
-      - text: "Minerva"
-        href: index.qmd
       - text: "← Aftur"
         href: index.qmd
-    right:
-      - text: "Støddfrøði C"
-        href: index.qmd#stoddfrodi-c
-      - text: "Støddfrøði B"
-        href: index.qmd#stoddfrodi-b
   sidebar:
     - id: sidebar-1g
       title: "1.g"

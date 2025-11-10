@@ -4,7 +4,7 @@ title: "Dømi: Finn areal á trýkanti við sinus"
 
 ## Dømi
 
-Henda undirv�sing gevur d�mi um evni�.
+Henda undirvísing gevur dmi um evnið.
 
 ## Dummy Content
 
@@ -73,3 +73,4 @@ $$
 
 ## Filmur 
 {{< video https://youtu.be/F7IaYoveH4w?si=I3ilz4iQ9lu8UyWZ >}}
+

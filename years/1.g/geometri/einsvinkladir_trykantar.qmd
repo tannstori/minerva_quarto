@@ -4,7 +4,7 @@ title: "Einsvinklaðir trýkantar"
 
 ## Innleiðing
 
-Henda undirv�sing fevnir um evni�.
+Henda undirvísing fevnir um evnið.
 
 ## Dummy Content
 
@@ -39,3 +39,4 @@ Um ein trýkantur hevur síður 3, 4, 5 og ein annar hevur síður 6, 8, 10, so 
 
 ## Filmur 
 {{< video https://youtu.be/FFSOeIOqUNU?si=fd3pgK_08eblsUGc >}}
+

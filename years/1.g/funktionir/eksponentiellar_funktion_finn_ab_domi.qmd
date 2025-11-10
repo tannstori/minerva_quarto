@@ -4,7 +4,7 @@ title: "Eksponentiellar funktión finn ab dømi"
 
 ## Dømi
 
-Henda undirv�sing gevur d�mi um evni�.
+Henda undirvísing gevur dmi um evnið.
 
 ## Dummy Content
 
@@ -112,7 +112,7 @@ Hetta merkir ein 26% vøkstur um tíman.
 
 ### Dømi 4: Minking
 
-Eitt radioaktivt evni minkar frá 80 g til 20 g ígjøgnum 10 ár.
+Eitt radioaktivt evnið minkar frá 80 g til 20 g ígjøgnum 10 ár.
 
 $$
 a = 80

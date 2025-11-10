@@ -4,7 +4,7 @@ title: "Prógv: 1.kvadratsetningur algebraiskt"
 
 ## Prógv
 
-Henda undirv�sing pr�gvar evni�.
+Henda undirvísing prgvar evnið.
 
 ## Dummy Content
 

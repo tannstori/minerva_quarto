@@ -6,7 +6,7 @@ sidebar: sidebar-2g
 
 
 
-## Evni
+## evnið
 
 - [**2. Gradspoly**](2.gradspoly/index.qmd) – Kvadratiskar funktiónir og líkningar
 - [**Differentialrokning**](differentialrokning/index.qmd) – Avleiddar funktiónir og funktiónsanalysa
@@ -17,3 +17,4 @@ sidebar: sidebar-2g
 - [**Sannlíkindarokning & Komb.**](sannlíkindarokning_komb/index.qmd) – Kombinatórikk og sannlíkindi
 - [**Trigonometri**](trigonometri/index.qmd) – Framkomin trigonometri
 - [**Vektorar 2D**](vektorar_2d/index.qmd) – Vektorrokning í tveimum dimensjónum
+

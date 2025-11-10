@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "objectID": "years/2.g/vektorar_2d/lesson-01-functions.html",
     "href": "years/2.g/vektorar_2d/lesson-01-functions.html",
@@ -1940,9 +1940,9 @@
     "href": "years/1.g/geometri/index.html",
     "title": "Geometri",
     "section": "",
-    "text": "This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.\n\nEinsvinklaðir trýkantar\nDømi: Einsvinklaðir trýkantar\nJavnbeintir og javnsíðaðir trýkantar\nPrógv: Vinkulsamløgan í trýkantum\nRættvinklaðir trýkantar\nDømi: Pythagoras\nPrógv: Pythagoras\nDømi: Pythagoras 2\nSinus og cosinus í rættvinklaðum trýkantum\nDømi: Sinus og cosinus - vinklar í eindarsirklinum\nDømi: Sinus og cosinus - vinklar í eindarsirklinum 2\nPrógv: Sinus og cosinus í rættvinklaðum trýkantum\nDømi: Finn manglandi síður og vinklar í rættvinklaðum trýkantum\nDømi: Finn vinkul í rættvinklaðum trýkanti við sinus formlinum\nDømi: Finn vinkul i rættvinklaðum trýkanti\nPrógv: Formil fyri at finna areal á trýkanti\nDømi: Finn areal á trýkanti við sinus\nPrógv: Areal í trýkanti við sinus\nIntroduktión og prógv av sinus relatiónunum\nSinus relatiónirnar dømi - finna vinkul\nSinusfellan\nDømi: Sinusfellan\nDømi: Finn longdina á síðu við sinus relatiónini\nDømi: Finn vinkul í trýkanti við sinus relatiónini\nIntroduktión og prógv av cosinus relatiónunum\nDømi: Finn vinkul í trýkanti við cosinus relatiónini\nDømi: Finn síðu í trýkanti við cosinus relatiónini",
+    "text": "🔺 Trýkantar - Grundleggjandi\n\nEinsvinklaðir trýkantar\nDømi: Einsvinklaðir trýkantar\nJavnbeintir og javnsíðaðir trýkantar\nPrógv: Vinkulsamløgan í trýkantum\n\n\n\n📐 Pythagoras\n\nRættvinklaðir trýkantar\nDømi: Pythagoras\nDømi: Pythagoras 2\nPrógv: Pythagoras\n\n\n\n📊 Sinus og Cosinus\n\nSinus og cosinus í rættvinklaðum trýkantum\nDømi: Sinus og cosinus - vinklar í eindarsirklinum\nDømi: Sinus og cosinus - vinklar í eindarsirklinum 2\nPrógv: Sinus og cosinus í rættvinklaðum trýkantum\nDømi: Finn manglandi síður og vinklar\nDømi: Finn vinkul - sinus formlinum\nDømi: Finn vinkul i rættvinklaðum trýkanti\n\n\n\n📏 Areal\n\nPrógv: Formil fyri at finna areal\nDømi: Finn areal við sinus\nPrógv: Areal í trýkanti við sinus\n\n\n\n🎯 Sinus Relatiónin\n\nIntroduktión og prógv av sinus relatiónunum\nSinus relatiónirnar dømi - finna vinkul\nSinusfellan\nDømi: Sinusfellan\nDømi: Finn longdina á síðu\nDømi: Finn vinkul í trýkanti\n\n\n\n🎲 Cosinus Relatiónin\n\nIntroduktión og prógv av cosinus relatiónunum\nDømi: Finn vinkul við cosinus relatiónini\nDømi: Finn síðu við cosinus relatiónini",
     "crumbs": [
-      "Minerva",
+      "← Aftur",
       "Geometri"
     ]
   },
@@ -2435,7 +2435,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_domi.html",
     "title": "Linjurættar funktiónir dømi",
     "section": "",
-    "text": "This lesson provides examples of linear functions.",
+    "text": "Henda undirvísing gevur dmi um evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir dømi"
@@ -2446,7 +2446,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_domi.html#dømi",
     "title": "Linjurættar funktiónir dømi",
     "section": "",
-    "text": "This lesson provides examples of linear functions.",
+    "text": "Henda undirvísing gevur dmi um evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir dømi"
@@ -2479,7 +2479,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html",
     "title": "Linjurættar funktiónir a og b",
     "section": "",
-    "text": "This lesson covers linear functions with parameters a and b.",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir a og b"
@@ -2490,7 +2490,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b.html#innleiðing",
     "title": "Linjurættar funktiónir a og b",
     "section": "",
-    "text": "This lesson covers linear functions with parameters a and b.",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir a og b"
@@ -2523,7 +2523,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_1.html",
     "title": "Linjurættar funktiónir 1",
     "section": "",
-    "text": "This lesson introduces linear functions - part 1.",
+    "text": "Henda undirvísing innleiir evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir 1"
@@ -2534,7 +2534,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_1.html#innleiðing",
     "title": "Linjurættar funktiónir 1",
     "section": "",
-    "text": "This lesson introduces linear functions - part 1.",
+    "text": "Henda undirvísing innleiir evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir 1"
@@ -2567,7 +2567,7 @@
     "href": "years/1.g/funktionir/funktions_kanning_2.html",
     "title": "Funktións kanning 2",
     "section": "",
-    "text": "This lesson covers function analysis - part 2.",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Funktións kanning 2"
@@ -2578,7 +2578,7 @@
     "href": "years/1.g/funktionir/funktions_kanning_2.html#innleiðing",
     "title": "Funktións kanning 2",
     "section": "",
-    "text": "This lesson covers function analysis - part 2.",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Funktións kanning 2"
@@ -2611,7 +2611,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_tvi_progv.html",
     "title": "Eksponentiellar funktión tví prógv",
     "section": "",
-    "text": "This lesson proves properties of exponential doubling functions.",
+    "text": "Henda undirvísing prgvar evni.",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión tví prógv"
@@ -2622,7 +2622,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_tvi_progv.html#prógv",
     "title": "Eksponentiellar funktión tví prógv",
     "section": "",
-    "text": "This lesson proves properties of exponential doubling functions.",
+    "text": "Henda undirvísing prgvar evni.",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión tví prógv"
@@ -2655,7 +2655,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_helvt.html",
     "title": "Eksponentiellar funktión helvt",
     "section": "",
-    "text": "This lesson covers exponential functions with halving (helvt).",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión helvt"
@@ -2666,7 +2666,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_helvt.html#innleiðing",
     "title": "Eksponentiellar funktión helvt",
     "section": "",
-    "text": "This lesson covers exponential functions with halving (helvt).",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión helvt"
@@ -2721,7 +2721,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_finn_ab.html#dummy-content",
     "title": "Eksponentiellar funktión finn ab",
     "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nAlmenn forma\n\\[\nf(x) = a \\cdot b^x\n\\]\n\n\nFinna a\nParameturin \\(a\\) er byrjanarvirðið, tá \\(x = 0\\):\n\\[\nf(0) = a \\cdot b^0 = a \\cdot 1 = a\n\\]\nSo \\(a = f(0)\\).\n\n\nFinna b\nTá vit vita \\(a\\) og eitt annað punkt \\((x_1, y_1)\\):\n\\[\ny_1 = a \\cdot b^{x_1}\n\\]\n\\[\nb^{x_1} = \\frac{y_1}{a}\n\\]\n\\[\nb = \\left(\\frac{y_1}{a}\\right)^{\\frac{1}{x_1}}\n\\]\n\n\nFinna a og b frá tveimum punktum\nGivið \\((x_1, y_1)\\) og \\((x_2, y_2)\\):\nSystema: \\[\ny_1 = a \\cdot b^{x_1}\n\\] \\[\ny_2 = a \\cdot b^{x_2}\n\\]\nLoysn: Deil annaða við fyrstu:\n\\[\n\\frac{y_2}{y_1} = b^{x_2 - x_1}\n\\]\n\\[\nb = \\left(\\frac{y_2}{y_1}\\right)^{\\frac{1}{x_2 - x_1}}\n\\]\nSo finna \\(a\\) frá einum av punktunum.\n\n\nAlternativt: Linearisingur\nTak logaritman av báðum síðum:\n\\[\n\\log(f(x)) = \\log(a) + x \\log(b)\n\\]\nHetta er linjurættur í \\(x\\) og \\(\\log(f(x))\\).\nPlotta \\(x\\) móti \\(\\log(f(x))\\) og finna linjuna.\n\n\nNýtsla\nHetta verður nýtt til: - Modellera dáta - Finna vøksturssatsar - Spáa framtíðar virði - Analysera eksperimentlíkar dáta",
+    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nAlmennur formurin\n\\[\nf(x) = a \\cdot b^x\n\\]\n\n\nFinna a\nParameturin \\(a\\) er byrjanarvirðið, tá \\(x = 0\\):\n\\[\nf(0) = a \\cdot b^0 = a \\cdot 1 = a\n\\]\nSo \\(a = f(0)\\).\n\n\nFinna b\nTá vit vita \\(a\\) og eitt annað punkt \\((x_1, y_1)\\):\n\\[\ny_1 = a \\cdot b^{x_1}\n\\]\n\\[\nb^{x_1} = \\frac{y_1}{a}\n\\]\n\\[\nb = \\left(\\frac{y_1}{a}\\right)^{\\frac{1}{x_1}}\n\\]\n\n\nFinna a og b frá tveimum punktum\nGivið \\((x_1, y_1)\\) og \\((x_2, y_2)\\):\nSystema: \\[\ny_1 = a \\cdot b^{x_1}\n\\] \\[\ny_2 = a \\cdot b^{x_2}\n\\]\nLoysn: Deil annaða við fyrstu:\n\\[\n\\frac{y_2}{y_1} = b^{x_2 - x_1}\n\\]\n\\[\nb = \\left(\\frac{y_2}{y_1}\\right)^{\\frac{1}{x_2 - x_1}}\n\\]\nSo finna \\(a\\) frá einum av punktunum.\n\n\nAlternativt: Linearisingur\nTak logaritman av báðum síðum:\n\\[\n\\log(f(x)) = \\log(a) + x \\log(b)\n\\]\nHetta er linjurættur í \\(x\\) og \\(\\log(f(x))\\).\nPlotta \\(x\\) móti \\(\\log(f(x))\\) og finna linjuna.\n\n\nNýtsla\nHetta verður nýtt til: - Modellera dáta - Finna vøksturssatsar - Spáa framtíðar virði - Analysera eksperimentlíkar dáta",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión finn ab"
@@ -2743,7 +2743,7 @@
     "href": "index.html",
     "title": "Vælkomin!",
     "section": "",
-    "text": "Minerva er ein digitalur lærugrunnur fyri matematikk og náttúruvísindi. Her finnur tú í løtuni støddfrøðifilmar á miðnámsstøði.\n\nHvussu kanst tú brúka hesa heimasíðu?\nNæmingar kunnu brúka navigatiónsstongina ovast, fyri at velja árgang. Hvør lektión inniheldur teorii, dømi og prógv.\nUndirvísarar kunnu geva elevum lektir, vitandi at allar lektir fylgja sama struktur. Lorem Ipsum…\n\n\nStrukturur\n\nStøddfrøði C\n\nTøl og Algebra – Tøl og algebra fevnir um talfatan og at loysa líkningar.\nFunktionir – Funktiónir lýsa eintýdda sambandið millum óhefta og hefta variabulin. Sambandið verður ásett á ymiskan hátt, so sum við rokniforskrift, við talvu, við grafi og við málsligum orðingum.\nGeometri – Geometri snýr seg um at greina eginleikar hjá tveydimensionalum skapum.\nHagfrøði – Hagfrøði er vísindaligur arbeiðsháttur, ið útvegar, viðger, greinar og tulkar tøl um eitt nú samfelagslig, búskaparlig og onnur viðurskifti.\nLíkindarokning – Sannlíkindi, hendingar og líkindareglur\nKapitalrokning – Kapitalrokning fevnir bæði um at framskriva og afturskriva kapital.\n\n\n\nStøddfrøði B\n\n2. Gradspoly – Kvadratiskar funktiónir og líkningar\nDifferentialrokning – Avleiddar funktiónir og funktiónsanalysa\nFunktionir –\nHagfrøði – Framkomin hagfrøði\nPlangeometri – Geometri í planinum\nRegression – Data og trendir\nSannlíkindarokning & Komb. – Kombinatórikk og sannlíkindi\nTrigonometri – Framkomin trigonometri\nVektorar 2D – Vektorrokning í tveimum dimensjónum"
+    "text": "Minerva er eitt ikki bara eitthvørt nám. Tað er eitt gullnám av støddfrøðisfilmum.\nHer finnur tú í løtuni støddfrøðifilmar á C-stigi. G.G. Hóast tað ber til at velja støddfrøði B, so er hetta bert ein royndarsíða.\n\nVel tín árgang\n\n\n\nStøddfrøði C\nStøddfrøði til 1.g\nVel Støddfrøði C →\n\n\nStøddfrøði B\nStøddfrøði til 2.g\nVel Støddfrøði B →"
   },
   {
     "objectID": "about.html",
@@ -2800,7 +2800,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_finn_ab_domi.html#dummy-content",
     "title": "Eksponentiellar funktión finn ab dømi",
     "section": "Dummy Content",
-    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nFormul\n\\[\nf(x) = a \\cdot b^x\n\\]\n\n\nDømi 1: Tveir punkt\nGivið: \\(f(0) = 5\\) og \\(f(2) = 20\\)\nFinna a: \\[\nf(0) = a \\cdot b^0 = a = 5\n\\]\nFinna b: \\[\nf(2) = 5 \\cdot b^2 = 20\n\\]\n\\[\nb^2 = 4\n\\]\n\\[\nb = 2\n\\]\nFunktión: \\[\nf(x) = 5 \\cdot 2^x\n\\]\n\n\nDømi 2: Tveir aðrir punkt\nGivið: \\(f(1) = 6\\) og \\(f(3) = 24\\)\nSystema av líkningum: \\[\n6 = a \\cdot b^1\n\\] \\[\n24 = a \\cdot b^3\n\\]\nDeil annaða við fyrstu: \\[\n\\frac{24}{6} = \\frac{a \\cdot b^3}{a \\cdot b} = b^2\n\\]\n\\[\nb^2 = 4\n\\]\n\\[\nb = 2\n\\]\nFinna a: \\[\n6 = a \\cdot 2\n\\]\n\\[\na = 3\n\\]\nFunktión: \\[\nf(x) = 3 \\cdot 2^x\n\\]\n\n\nDømi 3: Praktiskt\nTalið av bakterier veksur frá 100 til 400 á 6 tímum.\nVið \\(x\\) í tímum: \\[\n100 = a \\cdot b^0 \\Rightarrow a = 100\n\\]\n\\[\n400 = 100 \\cdot b^6\n\\]\n\\[\nb^6 = 4\n\\]\n\\[\nb = 4^{\\frac{1}{6}} = 2^{\\frac{2}{6}} = 2^{\\frac{1}{3}} \\approx 1.26\n\\]\nFunktión: \\[\nf(x) = 100 \\cdot 1.26^x\n\\]\nHetta merkir 26% vøkstur um tíma.\n\n\nDømi 4: Minking\nEitt radioaktivt evni minkir frá 80 g til 20 g á 10 árum.\n\\[\na = 80\n\\]\n\\[\n20 = 80 \\cdot b^{10}\n\\]\n\\[\nb^{10} = 0.25\n\\]\n\\[\nb = 0.25^{0.1} \\approx 0.87\n\\]\nFunktión: \\[\nf(x) = 80 \\cdot 0.87^x\n\\]\nHetta merkir 13% minking um ár.",
+    "text": "Dummy Content\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nFormul\n\\[\nf(x) = a \\cdot b^x\n\\]\n\n\nDømi 1: Tvey punkt\nGivið: \\(f(0) = 5\\) og \\(f(2) = 20\\)\nFinna a: \\[\nf(0) = a \\cdot b^0 = a = 5\n\\]\nFinna b: \\[\nf(2) = 5 \\cdot b^2 = 20\n\\]\n\\[\nb^2 = 4\n\\]\n\\[\nb = 2\n\\]\nFunktión: \\[\nf(x) = 5 \\cdot 2^x\n\\]\n\n\nDømi 2: Tvey onnur punkt\nGivið: \\(f(1) = 6\\) og \\(f(3) = 24\\)\nsystem av líkningum: \\[\n6 = a \\cdot b^1\n\\] \\[\n24 = a \\cdot b^3\n\\]\nBýt annan við tann fyrra: \\[\n\\frac{24}{6} = \\frac{a \\cdot b^3}{a \\cdot b} = b^2\n\\]\n\\[\nb^2 = 4\n\\]\n\\[\nb = 2\n\\]\nFinn a: \\[\n6 = a \\cdot 2\n\\]\n\\[\na = 3\n\\]\nFunktión: \\[\nf(x) = 3 \\cdot 2^x\n\\]\n\n\nDømi 3: Praktiskt\nTalið av bakterium veksur frá 100 til 400 uppá 6 tímum.\nVið \\(x\\) í tímum: \\[\n100 = a \\cdot b^0 \\Rightarrow a = 100\n\\]\n\\[\n400 = 100 \\cdot b^6\n\\]\n\\[\nb^6 = 4\n\\]\n\\[\nb = 4^{\\frac{1}{6}} = 2^{\\frac{2}{6}} = 2^{\\frac{1}{3}} \\approx 1.26\n\\]\nFunktión: \\[\nf(x) = 100 \\cdot 1.26^x\n\\]\nHetta merkir ein 26% vøkstur um tíman.\n\n\nDømi 4: Minking\nEitt radioaktivt evni minkar frá 80 g til 20 g ígjøgnum 10 ár.\n\\[\na = 80\n\\]\n\\[\n20 = 80 \\cdot b^{10}\n\\]\n\\[\nb^{10} = 0.25\n\\]\n\\[\nb = 0.25^{0.1} \\approx 0.87\n\\]\nFunktión: \\[\nf(x) = 80 \\cdot 0.87^x\n\\]\nHetta merkir ein 13% minking um árið.",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión finn ab dømi"
@@ -2822,7 +2822,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_tvi_helt.html",
     "title": "Eksponentiellar funktión tví helt",
     "section": "",
-    "text": "This lesson covers exponential functions with doubling (tví helt).",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión tví helt"
@@ -2833,7 +2833,7 @@
     "href": "years/1.g/funktionir/eksponentiellar_funktion_tvi_helt.html#innleiðing",
     "title": "Eksponentiellar funktión tví helt",
     "section": "",
-    "text": "This lesson covers exponential functions with doubling (tví helt).",
+    "text": "Henda undirvísing fevnir um evni.",
     "crumbs": [
       "Funktionir",
       "Eksponentiellar funktión tví helt"
@@ -2910,9 +2910,9 @@
     "href": "years/1.g/funktionir/index.html",
     "title": "Funktiónir",
     "section": "",
-    "text": "This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.\n\nPotensfunktiónir a og b\nPotensfunktiónir 2\nPotensfunktiónir 1\nLogaritmur roknireglur\nLogaritmur 2\nLogaritmur 1\nLinjurættar funktiónir a og b prógv\nLinjurættar funktiónir a og b\nLinjurættar funktiónir 2\nLinjurættar funktiónir 1\nLinjurættar funktiónir dømi\nFunktións kanning 2\nFunktións kanning\nMangli at uploada hetta - Eksponentiellar funktiónir\nEksponentiellar funktión helvt\nEksponentiellar funktión tví helt\nEksponentiellar funktión tví prógv\nEksponentiellar funktión finn ab dømi\nEksponentiellar funktión finn ab\n\nAs an example, here is a simple fraction calculation: \\[\n\\frac{1}{2} + \\frac{1}{3} = \\frac{5}{6}.\n\\]",
+    "text": "📈 Potensfunktiónir\n\nPotensfunktiónir a og b\nPotensfunktiónir 2\nPotensfunktiónir 1\n\n\n\n📊 Linjurættar Funktiónir\n\nLinjurættar funktiónir 1\nLinjurættar funktiónir 2\nLinjurættar funktiónir a og b\nLinjurættar funktiónir a og b prógv\nLinjurættar funktiónir dømi\n\n\n\n🔍 Funktiónskanning\n\nFunktións kanning\nFunktións kanning 2\n\n\n\n📉 Logaritmur\n\nLogaritmur 1\nLogaritmur 2\nLogaritmur roknireglur\n\n\n\n⚡ Eksponentiellar Funktiónir\n\nMangli at uploada - Eksponentiellar funktiónir\nEksponentiellar funktión helvt\nEksponentiellar funktión tví helt\nEksponentiellar funktión tví prógv\nEksponentiellar funktión finn ab\nEksponentiellar funktión finn ab dømi",
     "crumbs": [
-      "Minerva",
+      "← Aftur",
       "Funktionir"
     ]
   },
@@ -2965,7 +2965,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html",
     "title": "Linjurættar funktiónir a og b prógv",
     "section": "",
-    "text": "This lesson proves properties of linear functions with parameters a and b.",
+    "text": "Henda undirvísing prgvar evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir a og b prógv"
@@ -2976,7 +2976,7 @@
     "href": "years/1.g/funktionir/linjurattar_funktionir_a_og_b_progv.html#prógv",
     "title": "Linjurættar funktiónir a og b prógv",
     "section": "",
-    "text": "This lesson proves properties of linear functions with parameters a and b.",
+    "text": "Henda undirvísing prgvar evni.",
     "crumbs": [
       "Funktionir",
       "Linjurættar funktiónir a og b prógv"
@@ -3866,9 +3866,9 @@
     "href": "years/1.g/hagfrodi/index.html",
     "title": "Hagfrøði",
     "section": "",
-    "text": "This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.\n\nPopulatión og stakroynd\nPinnamynd\nÓbólkaðar observatiónir\nMiðalvirðið 2\nMiðalvirðið og spjaðing\nMiðalvirðið dømi\nFjórðingsmørk og typutalið\nMiðalvirðið - kanska slettast\nFrágreiðandi hagtøl óbólkað\nFjórðingsmørk median typutal ol\nBólkaðar observatiónir\nTrappumynd\nSummatiónstekin v2\nStabbamynd v2\nS rás",
+    "text": "📊 Grundleggjandi Hugtøk\n\nPopulatión og stakroynd\nÓbólkaðar observatiónir\nBólkaðar observatiónir\n\n\n\n📈 Myndir og Framsetingar\n\nPinnamynd\nStabbamynd v2\nTrappumynd\n\n\n\n🎯 Miðalvirði og Spjaðing\n\nMiðalvirðið 2\nMiðalvirðið og spjaðing\nMiðalvirðið dømi\nMiðalvirðið - kanska slettast\n\n\n\n📉 Frágreiðandi Hagtøl\n\nFjórðingsmørk og typutalið\nFjórðingsmørk median typutal ol\nFrágreiðandi hagtøl óbólkað\nSummatiónstekin v2\nS rás",
     "crumbs": [
-      "Minerva",
+      "← Aftur",
       "Hagfrøði"
     ]
   },
@@ -3965,7 +3965,7 @@
     "href": "years/1.g/hagfrodi/pinnamynd.html",
     "title": "Pinnamynd",
     "section": "",
-    "text": "This lesson covers dot plots (pinnamynd).",
+    "text": "Henda undirvísing fevnir um evnið.",
     "crumbs": [
       "Hagfrøði",
       "Pinnamynd"
@@ -3976,7 +3976,7 @@
     "href": "years/1.g/hagfrodi/pinnamynd.html#innleiðing",
     "title": "Pinnamynd",
     "section": "",
-    "text": "This lesson covers dot plots (pinnamynd).",
+    "text": "Henda undirvísing fevnir um evnið.",
     "crumbs": [
       "Hagfrøði",
       "Pinnamynd"
@@ -4229,7 +4229,7 @@
     "href": "years/1.g/kapitalrokning/index.html",
     "title": "Kapitalrokning",
     "section": "",
-    "text": "This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.\n\nProsent\nProsentrokning\nProsentrokning dømi\nKapitalframskriving rentufrymilin\nRentufrymilin dømi\nKapitalframskriving\nKapitalframskriving dømi\nEffektiv renta\nAnnuitetslán setningur\nAnnuitetslán prógv\nAnnuitetslán dømi\nAnnuitetsuppsparing setningur\nAnnuitetsuppsparing prógv\nIntro til annuitet\nSummatiónstekin v2\n\nAs an example, here is a simple fraction calculation: \\[\n\\frac{1}{2} + \\frac{1}{3} = \\frac{5}{6}.\n\\]",
+    "text": "Prosent\nProsentrokning\nProsentrokning dømi\n\n\n\n\n\nKapitalframskriving rentufrymilin\nRentufrymilin dømi\nKapitalframskriving\nKapitalframskriving dømi\nEffektiv renta\n\n\n\n\n\nIntro til annuitet\nAnnuitetslán setningur\nAnnuitetslán prógv\nAnnuitetslán dømi\n\n\n\n\n\nAnnuitetsuppsparing setningur\nAnnuitetsuppsparing prógv\nSummatiónstekin v2",
     "crumbs": [
       "Minerva",
       "Kapitalrokning"
@@ -4460,9 +4460,9 @@
     "href": "years/1.g/likindarokning/index.html",
     "title": "Líkindarokning",
     "section": "",
-    "text": "Líkindarokning\nLíkindarokning 2\nLíkindaøkið\nHendingar\nHendingar dømi\nÓheftar hendingar\nTreytað sannlíkindi\n\nAs an example, here is a simple fraction calculation: \\[\n\\frac{1}{2} + \\frac{1}{3} = \\frac{5}{6}.\n\\]",
+    "text": "🎲 Grundleggjandi Hugtøk\n\nLíkindarokning\nLíkindarokning 2\nLíkindaøkið\n\n\n\n🎯 Hendingar\n\nHendingar\nHendingar dømi\nÓheftar hendingar\n\n\n\n🔗 Treytað Sannlíkindi\n\nTreytað sannlíkindi",
     "crumbs": [
-      "Minerva",
+      "← Aftur",
       "Líkindarokning"
     ]
   },
@@ -4733,11 +4733,11 @@
   {
     "objectID": "years/1.g/tol_og_algebra/index.html",
     "href": "years/1.g/tol_og_algebra/index.html",
-    "title": "Innihaldsyvirlit",
+    "title": "Tøl og Algebra",
     "section": "",
-    "text": "Innihaldsyvirlit\n\nTøl - nátúrlig og heiltøl\nTøl - makað og støk tøl\nEginleikar hjá tølum\nEginleikar hjá tølum - dømi\nStigskipan av rokniháttum\nBrot 1\nBrot 2\nBrot - stytta og leingja\nBrot - stytta og leingja 2\nBrot - stytta og leingja dømi\nBrot - falda og býta\nKvadratsetningar introduktión\nKvadratsetningar dømi\nPrógv: 1.kvadratsetningur algebraiskt\nPrógv: 1.kvadratsetningur geometriskt\nPrógv: 2.kvadratsetningur algebraiskt\nPrógv: 2.kvadratsetningur geometriskt\nPrógv: 3.kvadratsetningur algebraiskt\nPrógv: 3.kvadratsetningar geometriskt\nPotensar\nPotensroknireglur\nPotensroknireglur 2\nPotensroknireglur 3\nPrimtøl\nLoysa tvær líkningar við tveimum ókendum - substitutión\nLoysa tvær líkningar við tveimum ókendum - koefficienthátturin\nLoysa tvær líkningar við tveimum ókendum - grafiskt\nTøl - rationel og irrationel tøl\nRótroknireglur\nRótroknireglur 2\nRøtur og rótroknireglur",
+    "text": "📚 Grundleggjandi Tal-ástøði\n\nTøl - nátúrlig og heiltøl\nTøl - makað og støk tøl\nEginleikar hjá tølum\nEginleikar hjá tølum - dømi\nStigskipan av rokniháttum\n\n\n\n🔢 Brot\n\nBrot 1\nBrot 2\nBrot - stytta og leingja\nBrot - stytta og leingja 2\nBrot - stytta og leingja dømi\nBrot - falda og býta\n\n\n\n📐 Kvadratsetningar\n\nKvadratsetningar introduktión\nKvadratsetningar dømi\nPrógv: 1.kvadratsetningur algebraiskt\nPrógv: 1.kvadratsetningur geometriskt\nPrógv: 2.kvadratsetningur algebraiskt\nPrógv: 2.kvadratsetningur geometriskt\nPrógv: 3.kvadratsetningur algebraiskt\nPrógv: 3.kvadratsetningar geometriskt\n\n\n\n⚡ Potensar\n\nPotensar\nPotensroknireglur\nPotensroknireglur 2\nPotensroknireglur 3\nPrimtøl\n\n\n\n🎯 Líkningar\n\nLoysa tvær líkningar - substitutión\nLoysa tvær líkningar - koefficienthátturin\nLoysa tvær líkningar - grafiskt\n\n\n\n√ Røtur og Talmongdir\n\nTøl - rationel og irrationel tøl\nRótroknireglur\nRótroknireglur 2\nRøtur og rótroknireglur",
     "crumbs": [
-      "Minerva",
+      "← Aftur",
       "Tøl og Algebra"
     ]
   },
@@ -5301,5 +5301,106 @@
       "Minerva",
       "Vektorar 2D"
     ]
+  },
+  {
+    "objectID": "years/2.g/index.html",
+    "href": "years/2.g/index.html",
+    "title": "GEV GÆTUR! B-STIG ER IKKI LIÐUGT ENN. HETTA ER BARA PLACEHOLDER TILFAR IÐ IKKI GEVUR MEINING",
+    "section": "",
+    "text": "2. Gradspoly – Kvadratiskar funktiónir og líkningar\nDifferentialrokning – Avleiddar funktiónir og funktiónsanalysa\nFunktionir – Framkomnar funktiónir\nHagfrøði – Framkomin hagfrøði\nPlangeometri – Geometri í planinum\nRegression – Data og trendir\nSannlíkindarokning & Komb. – Kombinatórikk og sannlíkindi\nTrigonometri – Framkomin trigonometri\nVektorar 2D – Vektorrokning í tveimum dimensjónum"
+  },
+  {
+    "objectID": "years/2.g/index.html#evni",
+    "href": "years/2.g/index.html#evni",
+    "title": "GEV GÆTUR! B-STIG ER IKKI LIÐUGT ENN. HETTA ER BARA PLACEHOLDER TILFAR IÐ IKKI GEVUR MEINING",
+    "section": "",
+    "text": "2. Gradspoly – Kvadratiskar funktiónir og líkningar\nDifferentialrokning – Avleiddar funktiónir og funktiónsanalysa\nFunktionir – Framkomnar funktiónir\nHagfrøði – Framkomin hagfrøði\nPlangeometri – Geometri í planinum\nRegression – Data og trendir\nSannlíkindarokning & Komb. – Kombinatórikk og sannlíkindi\nTrigonometri – Framkomin trigonometri\nVektorar 2D – Vektorrokning í tveimum dimensjónum"
+  },
+  {
+    "objectID": "years/1.g/index.html",
+    "href": "years/1.g/index.html",
+    "title": "Støddfrøði C",
+    "section": "",
+    "text": "Vælkomin til Støddfrøði C!\nVel eitt evnið niðanfyri:"
+  },
+  {
+    "objectID": "years/1.g/index.html#evni",
+    "href": "years/1.g/index.html#evni",
+    "title": "Støddfrøði C",
+    "section": "Evni",
+    "text": "Evni\n\nTøl og Algebra – Tøl og algebra fevnir um talfatan og at loysa líkningar.\nFunktionir – Funktiónir lýsa eintýdda sambandið millum óhefta og hefta variabulin.\nGeometri – Geometri snýr seg um at greina eginleikar hjá tveydimensionalum skapum.\nHagfrøði – Hagfrøði er vísindaligur arbeiðsháttur, ið útvegar, viðger, greinar og tulkar tøl.\nLíkindarokning – Sannlíkindi, hendingar og líkindareglur.\nKapitalrokning – Kapitalrokning fevnir bæði um at framskriva og afturskriva kapital."
+  },
+  {
+    "objectID": "years/1.g/tol_og_algebra/index.html#lektir",
+    "href": "years/1.g/tol_og_algebra/index.html#lektir",
+    "title": "Tøl og Algebra",
+    "section": "",
+    "text": "Tøl - nátúrlig og heiltøl\nTøl - makað og støk tøl\nEginleikar hjá tølum\nEginleikar hjá tølum - dømi\nStigskipan av rokniháttum\n\n\n\n\n\nBrot 1\nBrot 2\nBrot - stytta og leingja\nBrot - stytta og leingja 2\nBrot - stytta og leingja dømi\nBrot - falda og býta\n\n\n\n\n\nKvadratsetningar introduktión\nKvadratsetningar dømi\nPrógv: 1.kvadratsetningur algebraiskt\nPrógv: 1.kvadratsetningur geometriskt\nPrógv: 2.kvadratsetningur algebraiskt\nPrógv: 2.kvadratsetningur geometriskt\nPrógv: 3.kvadratsetningur algebraiskt\nPrógv: 3.kvadratsetningar geometriskt\n\n\n\n\n\nPotensar\nPotensroknireglur\nPotensroknireglur 2\nPotensroknireglur 3\nPrimtøl\n\n\n\n\n\nLoysa tvær líkningar - substitutión\nLoysa tvær líkningar - koefficienthátturin\nLoysa tvær líkningar - grafiskt\n\n\n\n\n\nTøl - rationel og irrationel tøl\nRótroknireglur\nRótroknireglur 2\nRøtur og rótroknireglur",
+    "crumbs": [
+      "← Aftur",
+      "Tøl og Algebra"
+    ]
+  },
+  {
+    "objectID": "years/1.g/funktionir/index.html#lektir",
+    "href": "years/1.g/funktionir/index.html#lektir",
+    "title": "Funktiónir",
+    "section": "",
+    "text": "Potensfunktiónir a og b\nPotensfunktiónir 2\nPotensfunktiónir 1\n\n\n\n\n\nLinjurættar funktiónir 1\nLinjurættar funktiónir 2\nLinjurættar funktiónir a og b\nLinjurættar funktiónir a og b prógv\nLinjurættar funktiónir dømi\n\n\n\n\n\nFunktións kanning\nFunktións kanning 2\n\n\n\n\n\nLogaritmur 1\nLogaritmur 2\nLogaritmur roknireglur\n\n\n\n\n\nMangli at uploada - Eksponentiellar funktiónir\nEksponentiellar funktión helvt\nEksponentiellar funktión tví helt\nEksponentiellar funktión tví prógv\nEksponentiellar funktión finn ab\nEksponentiellar funktión finn ab dømi",
+    "crumbs": [
+      "Minerva",
+      "Funktionir"
+    ]
+  },
+  {
+    "objectID": "years/1.g/hagfrodi/index.html#lektir",
+    "href": "years/1.g/hagfrodi/index.html#lektir",
+    "title": "Hagfrøði",
+    "section": "",
+    "text": "Populatión og stakroynd\nÓbólkaðar observatiónir\nBólkaðar observatiónir\n\n\n\n\n\nPinnamynd\nStabbamynd v2\nTrappumynd\n\n\n\n\n\nMiðalvirðið 2\nMiðalvirðið og spjaðing\nMiðalvirðið dømi\nMiðalvirðið - kanska slettast\n\n\n\n\n\nFjórðingsmørk og typutalið\nFjórðingsmørk median typutal ol\nFrágreiðandi hagtøl óbólkað\nSummatiónstekin v2\nS rás",
+    "crumbs": [
+      "Minerva",
+      "Hagfrøði"
+    ]
+  },
+  {
+    "objectID": "years/1.g/kapitalrokning/index.html#lektir",
+    "href": "years/1.g/kapitalrokning/index.html#lektir",
+    "title": "Kapitalrokning",
+    "section": "",
+    "text": "Prosent\nProsentrokning\nProsentrokning dømi\n\n\n\n\n\nKapitalframskriving rentufrymilin\nRentufrymilin dømi\nKapitalframskriving\nKapitalframskriving dømi\nEffektiv renta\n\n\n\n\n\nIntro til annuitet\nAnnuitetslán setningur\nAnnuitetslán prógv\nAnnuitetslán dømi\n\n\n\n\n\nAnnuitetsuppsparing setningur\nAnnuitetsuppsparing prógv\nSummatiónstekin v2",
+    "crumbs": [
+      "Minerva",
+      "Kapitalrokning"
+    ]
+  },
+  {
+    "objectID": "years/1.g/likindarokning/index.html#lektir",
+    "href": "years/1.g/likindarokning/index.html#lektir",
+    "title": "Líkindarokning",
+    "section": "",
+    "text": "Líkindarokning\nLíkindarokning 2\nLíkindaøkið\n\n\n\n\n\nHendingar\nHendingar dømi\nÓheftar hendingar\n\n\n\n\n\nTreytað sannlíkindi",
+    "crumbs": [
+      "Minerva",
+      "Líkindarokning"
+    ]
+  },
+  {
+    "objectID": "years/1.g/geometri/index.html#lektir",
+    "href": "years/1.g/geometri/index.html#lektir",
+    "title": "Geometri",
+    "section": "",
+    "text": "Einsvinklaðir trýkantar\nDømi: Einsvinklaðir trýkantar\nJavnbeintir og javnsíðaðir trýkantar\nPrógv: Vinkulsamløgan í trýkantum\n\n\n\n\n\nRættvinklaðir trýkantar\nDømi: Pythagoras\nDømi: Pythagoras 2\nPrógv: Pythagoras\n\n\n\n\n\nSinus og cosinus í rættvinklaðum trýkantum\nDømi: Sinus og cosinus - vinklar í eindarsirklinum\nDømi: Sinus og cosinus - vinklar í eindarsirklinum 2\nPrógv: Sinus og cosinus í rættvinklaðum trýkantum\nDømi: Finn manglandi síður og vinklar\nDømi: Finn vinkul - sinus formlinum\nDømi: Finn vinkul i rættvinklaðum trýkanti\n\n\n\n\n\nPrógv: Formil fyri at finna areal\nDømi: Finn areal við sinus\nPrógv: Areal í trýkanti við sinus\n\n\n\n\n\nIntroduktión og prógv av sinus relatiónunum\nSinus relatiónirnar dømi - finna vinkul\nSinusfellan\nDømi: Sinusfellan\nDømi: Finn longdina á síðu\nDømi: Finn vinkul í trýkanti\n\n\n\n\n\nIntroduktión og prógv av cosinus relatiónunum\nDømi: Finn vinkul við cosinus relatiónini\nDømi: Finn síðu við cosinus relatiónini",
+    "crumbs": [
+      "Minerva",
+      "Geometri"
+    ]
+  },
+  {
+    "objectID": "years/1.g/index.html#evnið",
+    "href": "years/1.g/index.html#evnið",
+    "title": "Støddfrøði C",
+    "section": "evnið",
+    "text": "evnið\n\nTøl og Algebra – Tøl og algebra fevniðr um talfatan og at loysa líkningar.\nFunktionir – Funktiónir lýsa eintýdda sambandið millum óhefta og hefta variabulin.\nGeometri – Geometri snýr seg um at greina eginleikar hjá tveydimensionalum skapum.\nHagfrøði – Hagfrøði er vísindaligur arbeiðsháttur, ið útvegar, viðger, greinar og tulkar tøl.\nLíkindarokning – Sannlíkindi, hendingar og líkindareglur.\nKapitalrokning – Kapitalrokning fevniðr bæði um at framskriva og afturskriva kapital."
   }
 ]

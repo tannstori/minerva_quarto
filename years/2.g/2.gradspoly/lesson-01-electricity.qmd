@@ -1,7 +1,7 @@
 ﻿---
 title: "Electricity"
 ---
-Henda undirv�sing fevnir um evni�.
+Henda undirvísing fevnir um evnið.
 
 <!-- TODO: Replace with real lesson video -->
 {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
@@ -15,3 +15,4 @@ $$
 - Use \(V = I R\) to solve for one quantity given the others
 - Understand units (volts, amperes, ohms)
 - Analyze simple series and parallel circuits
+

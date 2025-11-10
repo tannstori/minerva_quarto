@@ -130,16 +130,6 @@ window.Quarto = {
 <span class="menu-text">← Aftur</span></a>
   </li>  
 </ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-c"> 
-<span class="menu-text">Støddfrøði C</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-b"> 
-<span class="menu-text">Støddfrøði B</span></a>
-  </li>  
-</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -178,7 +168,7 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../years/1.g/tol_og_algebra/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Innihaldsyvirlit</span></a>
+ <span class="menu-text">Tøl og Algebra</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -980,49 +970,72 @@ window.Quarto = {
 </header>
 
 
-<p>This section contains math lessons for 7. klasse, covering basic algebra and arithmetic topics.</p>
+<section id="lektir" class="level2">
+<h2 class="anchored" data-anchor-id="lektir">Lektir</h2>
+<div class="lesson-grid">
+<section id="prosent" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="prosent">💯 Prosent</h3>
 <ul>
 <li><a href="../../../years/1.g/kapitalrokning/Prosent.html">Prosent</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/prosentrokning.html">Prosentrokning</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/prosentrokning_domi.html">Prosentrokning dømi</a></li>
+</ul>
+</section>
+<section id="kapitalframskriving" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="kapitalframskriving">📈 Kapitalframskriving</h3>
+<ul>
 <li><a href="../../../years/1.g/kapitalrokning/kapitalframskriving_rentufrymilin.html">Kapitalframskriving rentufrymilin</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/rentufrymilin_domi.html">Rentufrymilin dømi</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/kapitalframskriving.html">Kapitalframskriving</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/kapitalframskriving_domi.html">Kapitalframskriving dømi</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/effektiv_renta.html">Effektiv renta</a></li>
+</ul>
+</section>
+<section id="annuitetslán" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="annuitetslán">🏦 Annuitetslán</h3>
+<ul>
+<li><a href="../../../years/1.g/kapitalrokning/intro_til_annuitet.html">Intro til annuitet</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/annuitetslán_setningur.html">Annuitetslán setningur</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/annuitetslán_prógv.html">Annuitetslán prógv</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/annuitetslán_domi.html">Annuitetslán dømi</a></li>
+</ul>
+</section>
+<section id="annuitetsuppsparing" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="annuitetsuppsparing">💰 Annuitetsuppsparing</h3>
+<ul>
 <li><a href="../../../years/1.g/kapitalrokning/annuitetsuppsparing_setningur.html">Annuitetsuppsparing setningur</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/annuitetsuppsparing_prógv.html">Annuitetsuppsparing prógv</a></li>
-<li><a href="../../../years/1.g/kapitalrokning/intro_til_annuitet.html">Intro til annuitet</a></li>
 <li><a href="../../../years/1.g/kapitalrokning/summationstekin_v2.html">Summatiónstekin v2</a></li>
 </ul>
-<p>As an example, here is a simple fraction calculation: <span class="math display">\[
-\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
-\]</span></p>
+</section>
+</div>
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script>
 
 document.addEventListener('DOMContentLoaded', function() {
 
-  const isHomepage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+  const path = window.location.pathname;
+
+  const isMainHomepage = path.endsWith('index.html') && !path.includes('/years/');
+
+  const is1gHomepage = path.includes('/1.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
+
+  const is2gHomepage = path.includes('/2.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
 
   const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
-
-  const levelButtons = document.querySelectorAll('.navbar-nav .nav-link[href*="#stoddfrodi"]');
 
   const navbarBrand = document.querySelector('.navbar-brand');
 
   
 
-  if (isHomepage) {
+  if (isMainHomepage) {
 
-    // On homepage: hide back button, show level buttons
+    // Main homepage: hide back button
 
     if (backButton && backButton.textContent.includes('Aftur')) {
 
@@ -1030,31 +1043,37 @@ document.addEventListener('DOMContentLoaded', function() {
 
     }
 
-  } else {
+  } else if (is1gHomepage) {
 
-    // On subject pages: hide level buttons, show back button
+    // 1.g homepage: show "Støddfrøði C", back goes to main
 
-    levelButtons.forEach(btn => btn.style.display = 'none');
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-    
+    if (backButton) backButton.href = '../../index.html';
 
-    // Update navbar title based on current page
+  } else if (is2gHomepage) {
 
-    if (navbarBrand) {
+    // 2.g homepage: show "Støddfrøði B", back goes to main
 
-      const path = window.location.pathname;
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
 
-      if (path.includes('1.g')) {
+    if (backButton) backButton.href = '../../index.html';
 
-        navbarBrand.textContent = 'Støddfrøði C';
+  } else if (path.includes('/1.g/')) {
 
-      } else if (path.includes('2.g')) {
+    // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
 
-        navbarBrand.textContent = 'Støddfrøði B';
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-      }
+    if (backButton) backButton.href = '../index.html';
 
-    }
+  } else if (path.includes('/2.g/')) {
+
+    // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
+
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
+
+    if (backButton) backButton.href = '../index.html';
 
   }
 

@@ -59,3 +59,4 @@ sidebar: sidebar-1g
 - [Rótroknireglur 2](rotroknireglur-02.qmd)
 - [Røtur og rótroknireglur](rotur_og_rotroknireglur.qmd)
 
+

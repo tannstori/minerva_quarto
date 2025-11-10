@@ -4,7 +4,7 @@ title: "Populatión og stakroynd"
 
 ## Innleiðing
 
-Henda undirv�sing fevnir um evni�.
+Henda undirvísing fevnir um evnið.
 
 ## Dummy Content
 
@@ -39,3 +39,4 @@ Ein góð stakroynd skal vera:
 
 ## Filmur 
 {{< video https://youtu.be/Pg-sK6egk4o?si=P_BvKCo63JH4kvuV >}}
+

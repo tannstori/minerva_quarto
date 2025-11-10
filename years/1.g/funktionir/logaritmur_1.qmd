@@ -4,7 +4,7 @@ title: "Logaritmur 1"
 
 ## Innleiðing
 
-Henda undirv�sing innlei�ir evni�.
+Henda undirvísing innleiðir evnið.
 
 ## Dummy Content
 

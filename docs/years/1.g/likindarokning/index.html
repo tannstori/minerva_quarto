@@ -123,21 +123,7 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="../../../index.html" aria-current="page"> 
-<span class="menu-text">Minerva</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">← Aftur</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-c"> 
-<span class="menu-text">Støddfrøði C</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../index.html#stoddfrodi-b"> 
-<span class="menu-text">Støddfrøði B</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -178,7 +164,7 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../years/1.g/tol_og_algebra/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Innihaldsyvirlit</span></a>
+ <span class="menu-text">Tøl og Algebra</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -980,18 +966,30 @@ window.Quarto = {
 </header>
 
 
+<div class="lesson-grid">
+<section id="grundleggjandi-hugtøk" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="grundleggjandi-hugtøk">🎲 Grundleggjandi Hugtøk</h3>
 <ul>
 <li><a href="../../../years/1.g/likindarokning/likindarokning.html">Líkindarokning</a></li>
 <li><a href="../../../years/1.g/likindarokning/likindarokning_2.html">Líkindarokning 2</a></li>
 <li><a href="../../../years/1.g/likindarokning/likindaokid.html">Líkindaøkið</a></li>
+</ul>
+</section>
+<section id="hendingar" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="hendingar">🎯 Hendingar</h3>
+<ul>
 <li><a href="../../../years/1.g/likindarokning/hendingar.html">Hendingar</a></li>
 <li><a href="../../../years/1.g/likindarokning/hendingar_domi.html">Hendingar dømi</a></li>
 <li><a href="../../../years/1.g/likindarokning/oheftar_hendingar.html">Óheftar hendingar</a></li>
+</ul>
+</section>
+<section id="treytað-sannlíkindi" class="level3 lesson-card">
+<h3 class="anchored" data-anchor-id="treytað-sannlíkindi">🔗 Treytað Sannlíkindi</h3>
+<ul>
 <li><a href="../../../years/1.g/likindarokning/treytad_sannlikindi.html">Treytað sannlíkindi</a></li>
 </ul>
-<p>As an example, here is a simple fraction calculation: <span class="math display">\[
-\frac{1}{2} + \frac{1}{3} = \frac{5}{6}.
-\]</span></p>
+</section>
+</div>
 
 
 
@@ -1001,19 +999,23 @@ window.Quarto = {
 
 document.addEventListener('DOMContentLoaded', function() {
 
-  const isHomepage = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+  const path = window.location.pathname;
+
+  const isMainHomepage = path.endsWith('index.html') && !path.includes('/years/');
+
+  const is1gHomepage = path.includes('/1.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
+
+  const is2gHomepage = path.includes('/2.g/') && path.endsWith('index.html') && path.split('/').length <= 6;
 
   const backButton = document.querySelector('.navbar-nav .nav-link[href="index.qmd"]');
-
-  const levelButtons = document.querySelectorAll('.navbar-nav .nav-link[href*="#stoddfrodi"]');
 
   const navbarBrand = document.querySelector('.navbar-brand');
 
   
 
-  if (isHomepage) {
+  if (isMainHomepage) {
 
-    // On homepage: hide back button, show level buttons
+    // Main homepage: hide back button
 
     if (backButton && backButton.textContent.includes('Aftur')) {
 
@@ -1021,31 +1023,37 @@ document.addEventListener('DOMContentLoaded', function() {
 
     }
 
-  } else {
+  } else if (is1gHomepage) {
 
-    // On subject pages: hide level buttons, show back button
+    // 1.g homepage: show "Støddfrøði C", back goes to main
 
-    levelButtons.forEach(btn => btn.style.display = 'none');
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-    
+    if (backButton) backButton.href = '../../index.html';
 
-    // Update navbar title based on current page
+  } else if (is2gHomepage) {
 
-    if (navbarBrand) {
+    // 2.g homepage: show "Støddfrøði B", back goes to main
 
-      const path = window.location.pathname;
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
 
-      if (path.includes('1.g')) {
+    if (backButton) backButton.href = '../../index.html';
 
-        navbarBrand.textContent = 'Støddfrøði C';
+  } else if (path.includes('/1.g/')) {
 
-      } else if (path.includes('2.g')) {
+    // Inside 1.g subject: show "Støddfrøði C", back goes to 1.g homepage
 
-        navbarBrand.textContent = 'Støddfrøði B';
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði C';
 
-      }
+    if (backButton) backButton.href = '../index.html';
 
-    }
+  } else if (path.includes('/2.g/')) {
+
+    // Inside 2.g subject: show "Støddfrøði B", back goes to 2.g homepage
+
+    if (navbarBrand) navbarBrand.textContent = 'Støddfrøði B';
+
+    if (backButton) backButton.href = '../index.html';
 
   }
 

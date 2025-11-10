@@ -3,9 +3,11 @@ title: "Støddfrøði C"
 sidebar: sidebar-1g
 ---
 
-Vælkomin til Støddfrøði C! Vel eitt evni niðanfyri:
+Vælkomin til Støddfrøði C! 
 
-## Evni
+Vel eitt evnið niðanfyri:
+
+## evnið
 
 - [**Tøl og Algebra**](tol_og_algebra/index.qmd) – Tøl og algebra fevnir um talfatan og at loysa líkningar.
 - [**Funktionir**](funktionir/index.qmd) – Funktiónir lýsa eintýdda sambandið millum óhefta og hefta variabulin.
@@ -13,3 +15,4 @@ Vælkomin til Støddfrøði C! Vel eitt evni niðanfyri:
 - [**Hagfrøði**](hagfrodi/index.qmd) – Hagfrøði er vísindaligur arbeiðsháttur, ið útvegar, viðger, greinar og tulkar tøl.
 - [**Líkindarokning**](likindarokning/index.qmd) – Sannlíkindi, hendingar og líkindareglur.
 - [**Kapitalrokning**](kapitalrokning/index.qmd) – Kapitalrokning fevnir bæði um at framskriva og afturskriva kapital.
+

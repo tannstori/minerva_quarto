@@ -4,7 +4,7 @@ title: "Populatión og stakroynd"
 
 ## Innleiðing
 
-Henda undirv�sing fevnir um evni�.
+Henda undirvísing fevnir um evnið.
 
 ## Dummy Content
 
@@ -31,3 +31,4 @@ Ein góð stakroynd skal vera:
 - Representativ
 - Tilvildarlig vald
 - Nóg stór
+
